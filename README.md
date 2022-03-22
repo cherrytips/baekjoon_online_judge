@@ -1,4 +1,4 @@
-# programmers(프로그래머스) 연습 저장소
+# Baekjoon Online Judge(백준) 연습 저장소
 
 ![baekjoon](https://user-images.githubusercontent.com/99525990/159409881-84fc2332-6c71-4b3b-910c-621e4e4abc3e.png)
 
