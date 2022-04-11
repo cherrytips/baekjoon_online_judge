@@ -14,6 +14,8 @@
 
 - ### 1008. <a href="https://www.acmicpc.net/problem/1008" target="_blank" rel="noopener">A/B</a> ✅
 
+- ### 1330. <a href="https://www.acmicpc.net/problem/1330" target="_blank" rel="noopener">두 수 비교하기</a> ✅
+
 - ### 2588. <a href="https://www.acmicpc.net/problem/2588" target="_blank" rel="noopener">곱셈</a> ✅
 
 - ### 10171. <a href="https://www.acmicpc.net/problem/10171" target="_blank" rel="noopener">고양이</a> ✅
