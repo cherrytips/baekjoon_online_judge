@@ -14,12 +14,20 @@
 
 - ### 1008. <a href="https://www.acmicpc.net/problem/1008" target="_blank" rel="noopener">A/B</a> ✅
 
+- ### 1330. <a href="https://www.acmicpc.net/problem/1330" target="_blank" rel="noopener">두 수 비교하기</a> ✅
+
+- ### 2588. <a href="https://www.acmicpc.net/problem/2588" target="_blank" rel="noopener">곱셈</a> ✅
+
 - ### 10171. <a href="https://www.acmicpc.net/problem/10171" target="_blank" rel="noopener">고양이</a> ✅
 
 - ### 10172. <a href="https://www.acmicpc.net/problem/10172" target="_blank" rel="noopener">개</a> ✅
+
+- ### 10430. <a href="https://www.acmicpc.net/problem/10430" target="_blank" rel="noopener">나머지</a> ✅
 
 - ### 10869. <a href="https://www.acmicpc.net/problem/10869" target="_blank" rel="noopener">사칙연산</a> ✅
 
 - ### 10926. <a href="https://www.acmicpc.net/problem/10926" target="_blank" rel="noopener">??!</a> ✅
 
 - ### 10998. <a href="https://www.acmicpc.net/problem/10998" target="_blank" rel="noopener">AxB</a> ✅
+
+- ### 18108. <a href="https://www.acmicpc.net/problem/18108" target="_blank" rel="noopener">1998년생인 내가 태국에서는 2541년생?!</a> ✅
