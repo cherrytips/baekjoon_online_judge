@@ -23,3 +23,5 @@
 - ### 10926. <a href="https://www.acmicpc.net/problem/10926" target="_blank" rel="noopener">??!</a> ✅
 
 - ### 10998. <a href="https://www.acmicpc.net/problem/10998" target="_blank" rel="noopener">AxB</a> ✅
+
+- ### 18108. <a href="https://www.acmicpc.net/problem/18108" target="_blank" rel="noopener">1998년생인 내가 태국에서는 2541년생?!</a> ✅
