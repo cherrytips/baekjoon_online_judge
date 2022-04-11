@@ -13,3 +13,5 @@
 - ### 10171. <a href="https://www.acmicpc.net/problem/10171" target="_blank" rel="noopener">고양이</a> ✅
 
 - ### 10172. <a href="https://www.acmicpc.net/problem/10172" target="_blank" rel="noopener">개</a> ✅
+
+- ### 10998. <a href="https://www.acmicpc.net/problem/10998" target="_blank" rel="noopener">AxB</a> ✅
