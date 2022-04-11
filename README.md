@@ -16,6 +16,8 @@
 
 - ### 1330. <a href="https://www.acmicpc.net/problem/1330" target="_blank" rel="noopener">두 수 비교하기</a> ✅
 
+- ### 2480. <a href="https://www.acmicpc.net/problem/2480" target="_blank" rel="noopener">주사위 세개</a> ✅
+
 - ### 2525. <a href="https://www.acmicpc.net/problem/2525" target="_blank" rel="noopener">오븐 시계</a> ✅
 
 - ### 2588. <a href="https://www.acmicpc.net/problem/2588" target="_blank" rel="noopener">곱셈</a> ✅
