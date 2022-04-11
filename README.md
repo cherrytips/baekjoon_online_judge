@@ -18,6 +18,8 @@
 
 - ### 2588. <a href="https://www.acmicpc.net/problem/2588" target="_blank" rel="noopener">곱셈</a> ✅
 
+- ### 9498. <a href="https://www.acmicpc.net/problem/9498" target="_blank" rel="noopener">시험 성적</a> ✅
+
 - ### 10171. <a href="https://www.acmicpc.net/problem/10171" target="_blank" rel="noopener">고양이</a> ✅
 
 - ### 10172. <a href="https://www.acmicpc.net/problem/10172" target="_blank" rel="noopener">개</a> ✅
