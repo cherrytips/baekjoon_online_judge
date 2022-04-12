@@ -50,6 +50,8 @@
 
 - ### 10998. <a href="https://www.acmicpc.net/problem/10998" target="_blank" rel="noopener">AxB</a> ✅
 
+- ### 11021. <a href="https://www.acmicpc.net/problem/11021" target="_blank" rel="noopener">A+B - 7</a> ✅
+
 - ### 14681. <a href="https://www.acmicpc.net/problem/14681" target="_blank" rel="noopener">사분면 고르기</a> ✅
 
 - ### 15552. <a href="https://www.acmicpc.net/problem/15552" target="_blank" rel="noopener">빠른 A+B</a> ✅
