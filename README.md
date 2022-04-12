@@ -48,4 +48,6 @@
 
 - ### 14681. <a href="https://www.acmicpc.net/problem/14681" target="_blank" rel="noopener">사분면 고르기</a> ✅
 
+- ### 15552. <a href="https://www.acmicpc.net/problem/15552" target="_blank" rel="noopener">빠른 A+B</a> ✅
+
 - ### 18108. <a href="https://www.acmicpc.net/problem/18108" target="_blank" rel="noopener">1998년생인 내가 태국에서는 2541년생?!</a> ✅
