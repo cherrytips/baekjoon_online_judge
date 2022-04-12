@@ -22,9 +22,17 @@
 
 - ### 2588. <a href="https://www.acmicpc.net/problem/2588" target="_blank" rel="noopener">곱셈</a> ✅
 
+- ### 2739. <a href="https://www.acmicpc.net/problem/2739" target="_blank" rel="noopener">구구단</a> ✅
+
+- ### 2741. <a href="https://www.acmicpc.net/problem/2741" target="_blank" rel="noopener">N 찍기</a> ✅
+
+- ### 2742. <a href="https://www.acmicpc.net/problem/2742" target="_blank" rel="noopener">기찍 N</a> ✅
+
 - ### 2753. <a href="https://www.acmicpc.net/problem/2753" target="_blank" rel="noopener">윤년</a> ✅
 
 - ### 2884. <a href="https://www.acmicpc.net/problem/2884" target="_blank" rel="noopener">알람 시계</a> ✅
+
+- ### 8393. <a href="https://www.acmicpc.net/problem/8393" target="_blank" rel="noopener">합</a> ✅
 
 - ### 9498. <a href="https://www.acmicpc.net/problem/9498" target="_blank" rel="noopener">시험 성적</a> ✅
 
@@ -38,8 +46,14 @@
 
 - ### 10926. <a href="https://www.acmicpc.net/problem/10926" target="_blank" rel="noopener">??!</a> ✅
 
+- ### 10950. <a href="https://www.acmicpc.net/problem/10950" target="_blank" rel="noopener">A+B - 3</a> ✅
+
 - ### 10998. <a href="https://www.acmicpc.net/problem/10998" target="_blank" rel="noopener">AxB</a> ✅
 
+- ### 11021. <a href="https://www.acmicpc.net/problem/11021" target="_blank" rel="noopener">A+B - 7</a> ✅
+
 - ### 14681. <a href="https://www.acmicpc.net/problem/14681" target="_blank" rel="noopener">사분면 고르기</a> ✅
+
+- ### 15552. <a href="https://www.acmicpc.net/problem/15552" target="_blank" rel="noopener">빠른 A+B</a> ✅
 
 - ### 18108. <a href="https://www.acmicpc.net/problem/18108" target="_blank" rel="noopener">1998년생인 내가 태국에서는 2541년생?!</a> ✅
