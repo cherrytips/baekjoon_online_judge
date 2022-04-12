@@ -22,6 +22,8 @@
 
 - ### 2588. <a href="https://www.acmicpc.net/problem/2588" target="_blank" rel="noopener">곱셈</a> ✅
 
+- ### 2739. <a href="https://www.acmicpc.net/problem/2739" target="_blank" rel="noopener">구구단</a> ✅
+
 - ### 2753. <a href="https://www.acmicpc.net/problem/2753" target="_blank" rel="noopener">윤년</a> ✅
 
 - ### 2884. <a href="https://www.acmicpc.net/problem/2884" target="_blank" rel="noopener">알람 시계</a> ✅
