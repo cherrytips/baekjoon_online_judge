@@ -40,6 +40,8 @@
 
 - ### 10926. <a href="https://www.acmicpc.net/problem/10926" target="_blank" rel="noopener">??!</a> ✅
 
+- ### 10950. <a href="https://www.acmicpc.net/problem/10950" target="_blank" rel="noopener">A+B - 3</a> ✅
+
 - ### 10998. <a href="https://www.acmicpc.net/problem/10998" target="_blank" rel="noopener">AxB</a> ✅
 
 - ### 14681. <a href="https://www.acmicpc.net/problem/14681" target="_blank" rel="noopener">사분면 고르기</a> ✅
