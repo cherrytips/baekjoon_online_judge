@@ -14,7 +14,13 @@
 
 - ### 1008. <a href="https://www.acmicpc.net/problem/1008" target="_blank" rel="noopener">A/B</a> ✅
 
+- ### 1110. <a href="https://www.acmicpc.net/problem/1110" target="_blank" rel="noopener">더하기 사이클</a> ✅
+
 - ### 1330. <a href="https://www.acmicpc.net/problem/1330" target="_blank" rel="noopener">두 수 비교하기</a> ✅
+
+- ### 2438. <a href="https://www.acmicpc.net/problem/2438" target="_blank" rel="noopener">별 찍기 - 1</a> ✅
+
+- ### 2439. <a href="https://www.acmicpc.net/problem/2439" target="_blank" rel="noopener">별 찍기 - 2</a> ✅
 
 - ### 2480. <a href="https://www.acmicpc.net/problem/2480" target="_blank" rel="noopener">주사위 세개</a> ✅
 
@@ -44,13 +50,21 @@
 
 - ### 10869. <a href="https://www.acmicpc.net/problem/10869" target="_blank" rel="noopener">사칙연산</a> ✅
 
+- ### 10871. <a href="https://www.acmicpc.net/problem/10871" target="_blank" rel="noopener">X보다 작은 수</a> ✅
+
 - ### 10926. <a href="https://www.acmicpc.net/problem/10926" target="_blank" rel="noopener">??!</a> ✅
 
 - ### 10950. <a href="https://www.acmicpc.net/problem/10950" target="_blank" rel="noopener">A+B - 3</a> ✅
 
+- ### 10951. <a href="https://www.acmicpc.net/problem/10951" target="_blank" rel="noopener">A+B - 4</a> ✅
+
+- ### 10952. <a href="https://www.acmicpc.net/problem/10952" target="_blank" rel="noopener">A+B - 5</a> ✅
+
 - ### 10998. <a href="https://www.acmicpc.net/problem/10998" target="_blank" rel="noopener">AxB</a> ✅
 
 - ### 11021. <a href="https://www.acmicpc.net/problem/11021" target="_blank" rel="noopener">A+B - 7</a> ✅
+
+- ### 11022. <a href="https://www.acmicpc.net/problem/11022" target="_blank" rel="noopener">A+B - 8</a> ✅
 
 - ### 14681. <a href="https://www.acmicpc.net/problem/14681" target="_blank" rel="noopener">사분면 고르기</a> ✅
 
