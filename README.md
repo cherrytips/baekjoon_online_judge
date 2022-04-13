@@ -54,6 +54,8 @@
 
 - ### 10950. <a href="https://www.acmicpc.net/problem/10950" target="_blank" rel="noopener">A+B - 3</a> ✅
 
+- ### 10951. <a href="https://www.acmicpc.net/problem/10951" target="_blank" rel="noopener">A+B - 4</a> ✅
+
 - ### 10952. <a href="https://www.acmicpc.net/problem/10952" target="_blank" rel="noopener">A+B - 5</a> ✅
 
 - ### 10998. <a href="https://www.acmicpc.net/problem/10998" target="_blank" rel="noopener">AxB</a> ✅
