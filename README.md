@@ -18,6 +18,8 @@
 
 - ### 2438. <a href="https://www.acmicpc.net/problem/2438" target="_blank" rel="noopener">별 찍기 - 1</a> ✅
 
+- ### 2439. <a href="https://www.acmicpc.net/problem/2439" target="_blank" rel="noopener">별 찍기 - 2</a> ✅
+
 - ### 2480. <a href="https://www.acmicpc.net/problem/2480" target="_blank" rel="noopener">주사위 세개</a> ✅
 
 - ### 2525. <a href="https://www.acmicpc.net/problem/2525" target="_blank" rel="noopener">오븐 시계</a> ✅
