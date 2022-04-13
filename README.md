@@ -48,6 +48,8 @@
 
 - ### 10869. <a href="https://www.acmicpc.net/problem/10869" target="_blank" rel="noopener">사칙연산</a> ✅
 
+- ### 10871. <a href="https://www.acmicpc.net/problem/10871" target="_blank" rel="noopener">X보다 작은 수</a> ✅
+
 - ### 10926. <a href="https://www.acmicpc.net/problem/10926" target="_blank" rel="noopener">??!</a> ✅
 
 - ### 10950. <a href="https://www.acmicpc.net/problem/10950" target="_blank" rel="noopener">A+B - 3</a> ✅
