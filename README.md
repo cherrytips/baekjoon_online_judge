@@ -26,6 +26,8 @@
 
 - ### 2525. <a href="https://www.acmicpc.net/problem/2525" target="_blank" rel="noopener">오븐 시계</a> ✅
 
+- ### 2562. <a href="https://www.acmicpc.net/problem/2562" target="_blank" rel="noopener">최댓값</a> ✅
+
 - ### 2588. <a href="https://www.acmicpc.net/problem/2588" target="_blank" rel="noopener">곱셈</a> ✅
 
 - ### 2739. <a href="https://www.acmicpc.net/problem/2739" target="_blank" rel="noopener">구구단</a> ✅
@@ -47,6 +49,8 @@
 - ### 10172. <a href="https://www.acmicpc.net/problem/10172" target="_blank" rel="noopener">개</a> ✅
 
 - ### 10430. <a href="https://www.acmicpc.net/problem/10430" target="_blank" rel="noopener">나머지</a> ✅
+
+- ### 10818. <a href="https://www.acmicpc.net/problem/10818" target="_blank" rel="noopener">최소, 최대</a> ✅
 
 - ### 10869. <a href="https://www.acmicpc.net/problem/10869" target="_blank" rel="noopener">사칙연산</a> ✅
 
