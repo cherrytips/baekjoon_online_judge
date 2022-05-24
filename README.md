@@ -42,6 +42,8 @@
 
 - ### 2884. <a href="https://www.acmicpc.net/problem/2884" target="_blank" rel="noopener">알람 시계</a> ✅
 
+- ### 3052. <a href="https://www.acmicpc.net/problem/3052" target="_blank" rel="noopener">나머지</a> ✅
+
 - ### 8393. <a href="https://www.acmicpc.net/problem/8393" target="_blank" rel="noopener">합</a> ✅
 
 - ### 9498. <a href="https://www.acmicpc.net/problem/9498" target="_blank" rel="noopener">시험 성적</a> ✅
