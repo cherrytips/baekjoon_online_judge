@@ -18,6 +18,8 @@
 
 - ### 1330. <a href="https://www.acmicpc.net/problem/1330" target="_blank" rel="noopener">두 수 비교하기</a> ✅
 
+- ### 1546. <a href="https://www.acmicpc.net/problem/1546" target="_blank" rel="noopener">평균</a> ✅
+
 - ### 2438. <a href="https://www.acmicpc.net/problem/2438" target="_blank" rel="noopener">별 찍기 - 1</a> ✅
 
 - ### 2439. <a href="https://www.acmicpc.net/problem/2439" target="_blank" rel="noopener">별 찍기 - 2</a> ✅
@@ -41,6 +43,8 @@
 - ### 2753. <a href="https://www.acmicpc.net/problem/2753" target="_blank" rel="noopener">윤년</a> ✅
 
 - ### 2884. <a href="https://www.acmicpc.net/problem/2884" target="_blank" rel="noopener">알람 시계</a> ✅
+
+- ### 3052. <a href="https://www.acmicpc.net/problem/3052" target="_blank" rel="noopener">나머지</a> ✅
 
 - ### 8393. <a href="https://www.acmicpc.net/problem/8393" target="_blank" rel="noopener">합</a> ✅
 
