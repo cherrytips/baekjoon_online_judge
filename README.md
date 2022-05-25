@@ -48,6 +48,8 @@
 
 - ### 8393. <a href="https://www.acmicpc.net/problem/8393" target="_blank" rel="noopener">합</a> ✅
 
+- ### 8958. <a href="https://www.acmicpc.net/problem/8958" target="_blank" rel="noopener">OX퀴즈</a> ✅
+
 - ### 9498. <a href="https://www.acmicpc.net/problem/9498" target="_blank" rel="noopener">시험 성적</a> ✅
 
 - ### 10171. <a href="https://www.acmicpc.net/problem/10171" target="_blank" rel="noopener">고양이</a> ✅
