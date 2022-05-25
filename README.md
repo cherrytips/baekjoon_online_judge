@@ -46,7 +46,11 @@
 
 - ### 3052. <a href="https://www.acmicpc.net/problem/3052" target="_blank" rel="noopener">나머지</a> ✅
 
+- ### 4344. <a href="https://www.acmicpc.net/problem/4344" target="_blank" rel="noopener">평균은 넘겠지</a> ✅
+
 - ### 8393. <a href="https://www.acmicpc.net/problem/8393" target="_blank" rel="noopener">합</a> ✅
+
+- ### 8958. <a href="https://www.acmicpc.net/problem/8958" target="_blank" rel="noopener">OX퀴즈</a> ✅
 
 - ### 9498. <a href="https://www.acmicpc.net/problem/9498" target="_blank" rel="noopener">시험 성적</a> ✅
 
