@@ -48,6 +48,8 @@
 
 - ### 4344. <a href="https://www.acmicpc.net/problem/4344" target="_blank" rel="noopener">평균은 넘겠지</a> ✅
 
+- ### 4673. <a href="https://www.acmicpc.net/problem/4673" target="_blank" rel="noopener">셀프 넘버</a> ✅
+
 - ### 8393. <a href="https://www.acmicpc.net/problem/8393" target="_blank" rel="noopener">합</a> ✅
 
 - ### 8958. <a href="https://www.acmicpc.net/problem/8958" target="_blank" rel="noopener">OX퀴즈</a> ✅
