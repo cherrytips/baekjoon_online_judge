@@ -84,6 +84,8 @@
 
 - ### 11022. <a href="https://www.acmicpc.net/problem/11022" target="_blank" rel="noopener">A+B - 8</a> ✅
 
+- ### 11654. <a href="https://www.acmicpc.net/problem/11654" target="_blank" rel="noopener">아스키 코드</a> ✅
+
 - ### 14681. <a href="https://www.acmicpc.net/problem/14681" target="_blank" rel="noopener">사분면 고르기</a> ✅
 
 - ### 15552. <a href="https://www.acmicpc.net/problem/15552" target="_blank" rel="noopener">빠른 A+B</a> ✅
