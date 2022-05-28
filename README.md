@@ -14,6 +14,8 @@
 
 - ### 1008. <a href="https://www.acmicpc.net/problem/1008" target="_blank" rel="noopener">A/B</a> ✅
 
+- ### 1065. <a href="https://www.acmicpc.net/problem/1065" target="_blank" rel="noopener">한수</a> ✅
+
 - ### 1110. <a href="https://www.acmicpc.net/problem/1110" target="_blank" rel="noopener">더하기 사이클</a> ✅
 
 - ### 1330. <a href="https://www.acmicpc.net/problem/1330" target="_blank" rel="noopener">두 수 비교하기</a> ✅
@@ -81,6 +83,8 @@
 - ### 11021. <a href="https://www.acmicpc.net/problem/11021" target="_blank" rel="noopener">A+B - 7</a> ✅
 
 - ### 11022. <a href="https://www.acmicpc.net/problem/11022" target="_blank" rel="noopener">A+B - 8</a> ✅
+
+- ### 11654. <a href="https://www.acmicpc.net/problem/11654" target="_blank" rel="noopener">아스키 코드</a> ✅
 
 - ### 14681. <a href="https://www.acmicpc.net/problem/14681" target="_blank" rel="noopener">사분면 고르기</a> ✅
 
