@@ -36,6 +36,8 @@
 
 - ### 2588. <a href="https://www.acmicpc.net/problem/2588" target="_blank" rel="noopener">곱셈</a> ✅
 
+- ### 2675. <a href="https://www.acmicpc.net/problem/2675" target="_blank" rel="noopener">문자열 반복</a> ✅
+
 - ### 2739. <a href="https://www.acmicpc.net/problem/2739" target="_blank" rel="noopener">구구단</a> ✅
 
 - ### 2741. <a href="https://www.acmicpc.net/problem/2741" target="_blank" rel="noopener">N 찍기</a> ✅
