@@ -18,6 +18,8 @@
 
 - ### 1110. <a href="https://www.acmicpc.net/problem/1110" target="_blank" rel="noopener">더하기 사이클</a> ✅
 
+- ### 1152. <a href="https://www.acmicpc.net/problem/1152" target="_blank" rel="noopener">단어의 개수</a> ✅
+
 - ### 1157. <a href="https://www.acmicpc.net/problem/1157" target="_blank" rel="noopener">단어 공부</a> ✅
 
 - ### 1330. <a href="https://www.acmicpc.net/problem/1330" target="_blank" rel="noopener">두 수 비교하기</a> ✅
@@ -50,11 +52,15 @@
 
 - ### 2884. <a href="https://www.acmicpc.net/problem/2884" target="_blank" rel="noopener">알람 시계</a> ✅
 
+- ### 2908. <a href="https://www.acmicpc.net/problem/2908" target="_blank" rel="noopener">상수</a> ✅
+
 - ### 3052. <a href="https://www.acmicpc.net/problem/3052" target="_blank" rel="noopener">나머지</a> ✅
 
 - ### 4344. <a href="https://www.acmicpc.net/problem/4344" target="_blank" rel="noopener">평균은 넘겠지</a> ✅
 
 - ### 4673. <a href="https://www.acmicpc.net/problem/4673" target="_blank" rel="noopener">셀프 넘버</a> ✅
+
+- ### 5622. <a href="https://www.acmicpc.net/problem/5622" target="_blank" rel="noopener">다이얼</a> ✅
 
 - ### 8393. <a href="https://www.acmicpc.net/problem/8393" target="_blank" rel="noopener">합</a> ✅
 
