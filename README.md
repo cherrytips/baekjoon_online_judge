@@ -54,6 +54,8 @@
 
 - ### 2908. <a href="https://www.acmicpc.net/problem/2908" target="_blank" rel="noopener">상수</a> ✅
 
+- ### 2941. <a href="https://www.acmicpc.net/problem/2941" target="_blank" rel="noopener">크로아티아 알파벳</a> ✅
+
 - ### 3052. <a href="https://www.acmicpc.net/problem/3052" target="_blank" rel="noopener">나머지</a> ✅
 
 - ### 4344. <a href="https://www.acmicpc.net/problem/4344" target="_blank" rel="noopener">평균은 넘겠지</a> ✅
