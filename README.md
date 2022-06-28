@@ -92,6 +92,8 @@
 
 - ### 10430. <a href="https://www.acmicpc.net/problem/10430" target="_blank" rel="noopener">나머지</a> ✅
 
+- ### 10757. <a href="https://www.acmicpc.net/problem/10757" target="_blank" rel="noopener">큰 수 A+B</a> ✅
+
 - ### 10809. <a href="https://www.acmicpc.net/problem/10809" target="_blank" rel="noopener">알파벳 찾기</a> ✅
 
 - ### 10818. <a href="https://www.acmicpc.net/problem/10818" target="_blank" rel="noopener">최소, 최대</a> ✅
