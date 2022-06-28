@@ -84,6 +84,8 @@
 
 - ### 10172. <a href="https://www.acmicpc.net/problem/10172" target="_blank" rel="noopener">개</a> ✅
 
+- ### 10250. <a href="https://www.acmicpc.net/problem/10250" target="_blank" rel="noopener">ACM 호텔</a> ✅
+
 - ### 10430. <a href="https://www.acmicpc.net/problem/10430" target="_blank" rel="noopener">나머지</a> ✅
 
 - ### 10809. <a href="https://www.acmicpc.net/problem/10809" target="_blank" rel="noopener">알파벳 찾기</a> ✅
