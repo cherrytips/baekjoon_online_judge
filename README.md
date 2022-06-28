@@ -48,6 +48,8 @@
 
 - ### 2577. <a href="https://www.acmicpc.net/problem/2577" target="_blank" rel="noopener">숫자의 개수</a> ✅
 
+- ### 2581. <a href="https://www.acmicpc.net/problem/2581" target="_blank" rel="noopener">소수</a> ✅
+
 - ### 2588. <a href="https://www.acmicpc.net/problem/2588" target="_blank" rel="noopener">곱셈</a> ✅
 
 - ### 2675. <a href="https://www.acmicpc.net/problem/2675" target="_blank" rel="noopener">문자열 반복</a> ✅
