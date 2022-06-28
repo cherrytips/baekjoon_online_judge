@@ -32,6 +32,8 @@
 
 - ### 1712. <a href="https://www.acmicpc.net/problem/1712" target="_blank" rel="noopener">손익분기점</a> ✅
 
+- ### 1978. <a href="https://www.acmicpc.net/problem/1978" target="_blank" rel="noopener">소수 찾기</a> ✅
+
 - ### 2292. <a href="https://www.acmicpc.net/problem/2292" target="_blank" rel="noopener">벌집</a> ✅
 
 - ### 2438. <a href="https://www.acmicpc.net/problem/2438" target="_blank" rel="noopener">별 찍기 - 1</a> ✅
@@ -45,6 +47,8 @@
 - ### 2562. <a href="https://www.acmicpc.net/problem/2562" target="_blank" rel="noopener">최댓값</a> ✅
 
 - ### 2577. <a href="https://www.acmicpc.net/problem/2577" target="_blank" rel="noopener">숫자의 개수</a> ✅
+
+- ### 2581. <a href="https://www.acmicpc.net/problem/2581" target="_blank" rel="noopener">소수</a> ✅
 
 - ### 2588. <a href="https://www.acmicpc.net/problem/2588" target="_blank" rel="noopener">곱셈</a> ✅
 
@@ -115,6 +119,8 @@
 - ### 11021. <a href="https://www.acmicpc.net/problem/11021" target="_blank" rel="noopener">A+B - 7</a> ✅
 
 - ### 11022. <a href="https://www.acmicpc.net/problem/11022" target="_blank" rel="noopener">A+B - 8</a> ✅
+
+- ### 11653. <a href="https://www.acmicpc.net/problem/11653" target="_blank" rel="noopener">소인수분해</a> ✅
 
 - ### 11654. <a href="https://www.acmicpc.net/problem/11654" target="_blank" rel="noopener">아스키 코드</a> ✅
 
