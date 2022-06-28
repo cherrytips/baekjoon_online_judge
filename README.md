@@ -58,6 +58,8 @@
 
 - ### 2753. <a href="https://www.acmicpc.net/problem/2753" target="_blank" rel="noopener">윤년</a> ✅
 
+- ### 2869. <a href="https://www.acmicpc.net/problem/2869" target="_blank" rel="noopener">달팽이는 올라가고 싶다</a> ✅
+
 - ### 2884. <a href="https://www.acmicpc.net/problem/2884" target="_blank" rel="noopener">알람 시계</a> ✅
 
 - ### 2908. <a href="https://www.acmicpc.net/problem/2908" target="_blank" rel="noopener">상수</a> ✅
