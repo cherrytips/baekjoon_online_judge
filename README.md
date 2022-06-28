@@ -22,11 +22,17 @@
 
 - ### 1157. <a href="https://www.acmicpc.net/problem/1157" target="_blank" rel="noopener">단어 공부</a> ✅
 
+- ### 1193. <a href="https://www.acmicpc.net/problem/1193" target="_blank" rel="noopener">분수찾기</a> ✅
+
 - ### 1316. <a href="https://www.acmicpc.net/problem/1316" target="_blank" rel="noopener">그룹 단어 체커</a> ✅
 
 - ### 1330. <a href="https://www.acmicpc.net/problem/1330" target="_blank" rel="noopener">두 수 비교하기</a> ✅
 
 - ### 1546. <a href="https://www.acmicpc.net/problem/1546" target="_blank" rel="noopener">평균</a> ✅
+
+- ### 1712. <a href="https://www.acmicpc.net/problem/1712" target="_blank" rel="noopener">손익분기점</a> ✅
+
+- ### 2292. <a href="https://www.acmicpc.net/problem/2292" target="_blank" rel="noopener">벌집</a> ✅
 
 - ### 2438. <a href="https://www.acmicpc.net/problem/2438" target="_blank" rel="noopener">별 찍기 - 1</a> ✅
 
@@ -52,6 +58,12 @@
 
 - ### 2753. <a href="https://www.acmicpc.net/problem/2753" target="_blank" rel="noopener">윤년</a> ✅
 
+- ### 2775. <a href="https://www.acmicpc.net/problem/2775" target="_blank" rel="noopener">부녀회장이 될테야</a> ✅
+
+- ### 2839. <a href="https://www.acmicpc.net/problem/2839" target="_blank" rel="noopener">설탕 배달</a> ✅
+
+- ### 2869. <a href="https://www.acmicpc.net/problem/2869" target="_blank" rel="noopener">달팽이는 올라가고 싶다</a> ✅
+
 - ### 2884. <a href="https://www.acmicpc.net/problem/2884" target="_blank" rel="noopener">알람 시계</a> ✅
 
 - ### 2908. <a href="https://www.acmicpc.net/problem/2908" target="_blank" rel="noopener">상수</a> ✅
@@ -76,7 +88,11 @@
 
 - ### 10172. <a href="https://www.acmicpc.net/problem/10172" target="_blank" rel="noopener">개</a> ✅
 
+- ### 10250. <a href="https://www.acmicpc.net/problem/10250" target="_blank" rel="noopener">ACM 호텔</a> ✅
+
 - ### 10430. <a href="https://www.acmicpc.net/problem/10430" target="_blank" rel="noopener">나머지</a> ✅
+
+- ### 10757. <a href="https://www.acmicpc.net/problem/10757" target="_blank" rel="noopener">큰 수 A+B</a> ✅
 
 - ### 10809. <a href="https://www.acmicpc.net/problem/10809" target="_blank" rel="noopener">알파벳 찾기</a> ✅
 
