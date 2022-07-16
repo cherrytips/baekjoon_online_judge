@@ -82,6 +82,8 @@
 
 - ### 4673. <a href="https://www.acmicpc.net/problem/4673" target="_blank" rel="noopener">셀프 넘버</a> ✅
 
+- ### 4948. <a href="https://www.acmicpc.net/problem/4948" target="_blank" rel="noopener">베르트랑 공준</a> ❗️
+
 - ### 5622. <a href="https://www.acmicpc.net/problem/5622" target="_blank" rel="noopener">다이얼</a> ✅
 
 - ### 8393. <a href="https://www.acmicpc.net/problem/8393" target="_blank" rel="noopener">합</a> ✅
