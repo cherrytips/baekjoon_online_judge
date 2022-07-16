@@ -32,6 +32,8 @@
 
 - ### 1712. <a href="https://www.acmicpc.net/problem/1712" target="_blank" rel="noopener">손익분기점</a> ✅
 
+- ### 1929. <a href="https://www.acmicpc.net/problem/1929" target="_blank" rel="noopener">소수 구하기</a> ✅
+
 - ### 1978. <a href="https://www.acmicpc.net/problem/1978" target="_blank" rel="noopener">소수 찾기</a> ✅
 
 - ### 2292. <a href="https://www.acmicpc.net/problem/2292" target="_blank" rel="noopener">벌집</a> ✅
@@ -79,6 +81,8 @@
 - ### 4344. <a href="https://www.acmicpc.net/problem/4344" target="_blank" rel="noopener">평균은 넘겠지</a> ✅
 
 - ### 4673. <a href="https://www.acmicpc.net/problem/4673" target="_blank" rel="noopener">셀프 넘버</a> ✅
+
+- ### 4948. <a href="https://www.acmicpc.net/problem/4948" target="_blank" rel="noopener">베르트랑 공준</a> ❗️
 
 - ### 5622. <a href="https://www.acmicpc.net/problem/5622" target="_blank" rel="noopener">다이얼</a> ✅
 
