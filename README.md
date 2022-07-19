@@ -46,6 +46,8 @@
 
 - ### 2525. <a href="https://www.acmicpc.net/problem/2525" target="_blank" rel="noopener">오븐 시계</a> ✅
 
+- ### 2557. <a href="https://www.acmicpc.net/problem/2557" target="_blank" rel="noopener">Hello World</a> ✅
+
 - ### 2562. <a href="https://www.acmicpc.net/problem/2562" target="_blank" rel="noopener">최댓값</a> ✅
 
 - ### 2577. <a href="https://www.acmicpc.net/problem/2577" target="_blank" rel="noopener">숫자의 개수</a> ✅
