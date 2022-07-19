@@ -102,6 +102,8 @@
 
 - ### 10430. <a href="https://www.acmicpc.net/problem/10430" target="_blank" rel="noopener">나머지</a> ✅
 
+- ### 10718. <a href="https://www.acmicpc.net/problem/10718" target="_blank" rel="noopener">We love kriii</a> ✅
+
 - ### 10757. <a href="https://www.acmicpc.net/problem/10757" target="_blank" rel="noopener">큰 수 A+B</a> ✅
 
 - ### 10809. <a href="https://www.acmicpc.net/problem/10809" target="_blank" rel="noopener">알파벳 찾기</a> ✅
