@@ -134,6 +134,8 @@
 
 - ### 11654. <a href="https://www.acmicpc.net/problem/11654" target="_blank" rel="noopener">아스키 코드</a> ✅
 
+- ### 11718. <a href="https://www.acmicpc.net/problem/11718" target="_blank" rel="noopener">그대로 출력하기</a> ✅
+
 - ### 11720. <a href="https://www.acmicpc.net/problem/11720" target="_blank" rel="noopener">숫자의 합</a> ✅
 
 - ### 14681. <a href="https://www.acmicpc.net/problem/14681" target="_blank" rel="noopener">사분면 고르기</a> ✅
