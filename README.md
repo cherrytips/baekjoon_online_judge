@@ -114,6 +114,8 @@
 
 - ### 10871. <a href="https://www.acmicpc.net/problem/10871" target="_blank" rel="noopener">X보다 작은 수</a> ✅
 
+- ### 10872. <a href="https://www.acmicpc.net/problem/10872" target="_blank" rel="noopener">팩토리얼</a> ✅
+
 - ### 10926. <a href="https://www.acmicpc.net/problem/10926" target="_blank" rel="noopener">??!</a> ✅
 
 - ### 10950. <a href="https://www.acmicpc.net/problem/10950" target="_blank" rel="noopener">A+B - 3</a> ✅
