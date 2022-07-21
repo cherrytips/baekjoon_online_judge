@@ -152,8 +152,8 @@
 
 - ### 25083. <a href="https://www.acmicpc.net/problem/25083" target="_blank" rel="noopener">새싹</a> ✅
 
-- ### 25371. <a href="https://www.acmicpc.net/problem/25371" target="_blank" rel="noopener">k진수 정수의 자릿수 나누기</a> ✅
+- ### 25371. <a href="https://www.acmicpc.net/problem/25371" target="_blank" rel="noopener">k진수 정수의 자릿수 나누기</a> ❗️
 
-- ### 25373. <a href="https://www.acmicpc.net/problem/25373" target="_blank" rel="noopener">벼락치기</a> ✅
+- ### 25373. <a href="https://www.acmicpc.net/problem/25373" target="_blank" rel="noopener">벼락치기</a> ❗️
 
 - ### 25377. <a href="https://www.acmicpc.net/problem/25377" target="_blank" rel="noopener">빵</a> ✅
