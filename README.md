@@ -152,6 +152,8 @@
 
 - ### 25083. <a href="https://www.acmicpc.net/problem/25083" target="_blank" rel="noopener">새싹</a> ✅
 
+- ### 25278. <a href="https://www.acmicpc.net/problem/25278" target="_blank" rel="noopener">Terraforming</a> ✅
+
 - ### 25305. <a href="https://www.acmicpc.net/problem/25305" target="_blank" rel="noopener">커트라인</a> ✅
 
 - ### 25371. <a href="https://www.acmicpc.net/problem/25371" target="_blank" rel="noopener">k진수 정수의 자릿수 나누기</a> ❗️
