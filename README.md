@@ -42,6 +42,8 @@
 
 - ### 2439. <a href="https://www.acmicpc.net/problem/2439" target="_blank" rel="noopener">별 찍기 - 2</a> ✅
 
+- ### 2475. <a href="https://www.acmicpc.net/problem/2475" target="_blank" rel="noopener">검증수</a> ✅
+
 - ### 2480. <a href="https://www.acmicpc.net/problem/2480" target="_blank" rel="noopener">주사위 세개</a> ✅
 
 - ### 2525. <a href="https://www.acmicpc.net/problem/2525" target="_blank" rel="noopener">오븐 시계</a> ✅
@@ -63,6 +65,8 @@
 - ### 2741. <a href="https://www.acmicpc.net/problem/2741" target="_blank" rel="noopener">N 찍기</a> ✅
 
 - ### 2742. <a href="https://www.acmicpc.net/problem/2742" target="_blank" rel="noopener">기찍 N</a> ✅
+
+- ### 2743. <a href="https://www.acmicpc.net/problem/2743" target="_blank" rel="noopener">단어 길이 재기</a> ✅
 
 - ### 2753. <a href="https://www.acmicpc.net/problem/2753" target="_blank" rel="noopener">윤년</a> ✅
 
@@ -114,6 +118,8 @@
 
 - ### 10871. <a href="https://www.acmicpc.net/problem/10871" target="_blank" rel="noopener">X보다 작은 수</a> ✅
 
+- ### 10872. <a href="https://www.acmicpc.net/problem/10872" target="_blank" rel="noopener">팩토리얼</a> ✅
+
 - ### 10926. <a href="https://www.acmicpc.net/problem/10926" target="_blank" rel="noopener">??!</a> ✅
 
 - ### 10950. <a href="https://www.acmicpc.net/problem/10950" target="_blank" rel="noopener">A+B - 3</a> ✅
@@ -132,6 +138,8 @@
 
 - ### 11654. <a href="https://www.acmicpc.net/problem/11654" target="_blank" rel="noopener">아스키 코드</a> ✅
 
+- ### 11718. <a href="https://www.acmicpc.net/problem/11718" target="_blank" rel="noopener">그대로 출력하기</a> ✅
+
 - ### 11720. <a href="https://www.acmicpc.net/problem/11720" target="_blank" rel="noopener">숫자의 합</a> ✅
 
 - ### 14681. <a href="https://www.acmicpc.net/problem/14681" target="_blank" rel="noopener">사분면 고르기</a> ✅
@@ -143,3 +151,17 @@
 - ### 18108. <a href="https://www.acmicpc.net/problem/18108" target="_blank" rel="noopener">1998년생인 내가 태국에서는 2541년생?!</a> ✅
 
 - ### 25083. <a href="https://www.acmicpc.net/problem/25083" target="_blank" rel="noopener">새싹</a> ✅
+
+- ### 25183. <a href="https://www.acmicpc.net/problem/25183" target="_blank" rel="noopener">인생은 한 방</a> ✅
+
+- ### 25205. <a href="https://www.acmicpc.net/problem/25205" target="_blank" rel="noopener">경로당펑크 2077</a> ✅
+
+- ### 25278. <a href="https://www.acmicpc.net/problem/25278" target="_blank" rel="noopener">Terraforming</a> ✅
+
+- ### 25305. <a href="https://www.acmicpc.net/problem/25305" target="_blank" rel="noopener">커트라인</a> ✅
+
+- ### 25371. <a href="https://www.acmicpc.net/problem/25371" target="_blank" rel="noopener">k진수 정수의 자릿수 나누기</a> ❗️
+
+- ### 25373. <a href="https://www.acmicpc.net/problem/25373" target="_blank" rel="noopener">벼락치기</a> ❗️
+
+- ### 25377. <a href="https://www.acmicpc.net/problem/25377" target="_blank" rel="noopener">빵</a> ✅
