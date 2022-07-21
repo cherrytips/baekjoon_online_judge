@@ -152,4 +152,6 @@
 
 - ### 25083. <a href="https://www.acmicpc.net/problem/25083" target="_blank" rel="noopener">새싹</a> ✅
 
+- ### 25373. <a href="https://www.acmicpc.net/problem/25373" target="_blank" rel="noopener">벼락치기</a> ✅
+
 - ### 25377. <a href="https://www.acmicpc.net/problem/25377" target="_blank" rel="noopener">빵</a> ✅
