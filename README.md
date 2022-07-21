@@ -152,6 +152,8 @@
 
 - ### 25083. <a href="https://www.acmicpc.net/problem/25083" target="_blank" rel="noopener">새싹</a> ✅
 
+- ### 25183. <a href="https://www.acmicpc.net/problem/25183" target="_blank" rel="noopener">인생은 한 방</a> ✅
+
 - ### 25205. <a href="https://www.acmicpc.net/problem/25205" target="_blank" rel="noopener">경로당펑크 2077</a> ✅
 
 - ### 25278. <a href="https://www.acmicpc.net/problem/25278" target="_blank" rel="noopener">Terraforming</a> ✅
