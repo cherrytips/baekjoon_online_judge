@@ -66,6 +66,8 @@
 
 - ### 2742. <a href="https://www.acmicpc.net/problem/2742" target="_blank" rel="noopener">기찍 N</a> ✅
 
+- ### 2743. <a href="https://www.acmicpc.net/problem/2743" target="_blank" rel="noopener">단어 길이 재기</a> ✅
+
 - ### 2753. <a href="https://www.acmicpc.net/problem/2753" target="_blank" rel="noopener">윤년</a> ✅
 
 - ### 2775. <a href="https://www.acmicpc.net/problem/2775" target="_blank" rel="noopener">부녀회장이 될테야</a> ✅
