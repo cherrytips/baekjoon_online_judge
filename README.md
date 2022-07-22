@@ -39,6 +39,8 @@
 
 - ### 1330. <a href="https://www.acmicpc.net/problem/1330" target="_blank" rel="noopener">두 수 비교하기</a> ✅
 
+- ### 1357. <a href="https://www.acmicpc.net/problem/1357" target="_blank" rel="noopener">뒤집힌 덧셈</a> ✅
+
 - ### 1373. <a href="https://www.acmicpc.net/problem/1373" target="_blank" rel="noopener">2진수 8진수</a> ✅
 
 - ### 1546. <a href="https://www.acmicpc.net/problem/1546" target="_blank" rel="noopener">평균</a> ✅
@@ -82,6 +84,8 @@
 - ### 2588. <a href="https://www.acmicpc.net/problem/2588" target="_blank" rel="noopener">곱셈</a> ✅
 
 - ### 2675. <a href="https://www.acmicpc.net/problem/2675" target="_blank" rel="noopener">문자열 반복</a> ✅
+
+- ### 2693. <a href="https://www.acmicpc.net/problem/2693" target="_blank" rel="noopener">N번째 큰 수</a> ✅
 
 - ### 2739. <a href="https://www.acmicpc.net/problem/2739" target="_blank" rel="noopener">구구단</a> ✅
 
@@ -142,6 +146,8 @@
 - ### 9093. <a href="https://www.acmicpc.net/problem/9093" target="_blank" rel="noopener">단어 뒤집기</a> ✅
 
 - ### 9498. <a href="https://www.acmicpc.net/problem/9498" target="_blank" rel="noopener">시험 성적</a> ✅
+
+- ### 9625. <a href="https://www.acmicpc.net/problem/9625" target="_blank" rel="noopener">BABBA</a> ✅
 
 </details>
 <details>
