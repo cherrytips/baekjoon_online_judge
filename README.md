@@ -85,6 +85,8 @@
 
 - ### 2675. <a href="https://www.acmicpc.net/problem/2675" target="_blank" rel="noopener">문자열 반복</a> ✅
 
+- ### 2693. <a href="https://www.acmicpc.net/problem/2693" target="_blank" rel="noopener">N번째 큰 수</a> ✅
+
 - ### 2739. <a href="https://www.acmicpc.net/problem/2739" target="_blank" rel="noopener">구구단</a> ✅
 
 - ### 2741. <a href="https://www.acmicpc.net/problem/2741" target="_blank" rel="noopener">N 찍기</a> ✅
