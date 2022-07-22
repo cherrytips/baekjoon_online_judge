@@ -39,6 +39,8 @@
 
 - ### 1330. <a href="https://www.acmicpc.net/problem/1330" target="_blank" rel="noopener">두 수 비교하기</a> ✅
 
+- ### 1357. <a href="https://www.acmicpc.net/problem/1357" target="_blank" rel="noopener">뒤집힌 덧셈</a> ✅
+
 - ### 1373. <a href="https://www.acmicpc.net/problem/1373" target="_blank" rel="noopener">2진수 8진수</a> ✅
 
 - ### 1546. <a href="https://www.acmicpc.net/problem/1546" target="_blank" rel="noopener">평균</a> ✅
