@@ -8,6 +8,9 @@
 
 > --> 각 항목들은 번호 순서대로 나열
 
+<details>
+<summary>1000번대</summary>
+
 - ### 1000. <a href="https://www.acmicpc.net/problem/1000" target="_blank" rel="noopener">A+B</a> ✅
 
 - ### 1001. <a href="https://www.acmicpc.net/problem/1001" target="_blank" rel="noopener">A-B</a> ✅
@@ -45,6 +48,8 @@
 - ### 1929. <a href="https://www.acmicpc.net/problem/1929" target="_blank" rel="noopener">소수 구하기</a> ✅
 
 - ### 1978. <a href="https://www.acmicpc.net/problem/1978" target="_blank" rel="noopener">소수 찾기</a> ✅
+
+</details>
 
 - ### 2163. <a href="https://www.acmicpc.net/problem/2163" target="_blank" rel="noopener">초콜릿 자르기</a> ✅
 
