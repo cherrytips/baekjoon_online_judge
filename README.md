@@ -8,11 +8,16 @@
 
 > --> 각 항목들은 번호 순서대로 나열
 
+<details>
+<summary>1000번대</summary>
+
 - ### 1000. <a href="https://www.acmicpc.net/problem/1000" target="_blank" rel="noopener">A+B</a> ✅
 
 - ### 1001. <a href="https://www.acmicpc.net/problem/1001" target="_blank" rel="noopener">A-B</a> ✅
 
 - ### 1008. <a href="https://www.acmicpc.net/problem/1008" target="_blank" rel="noopener">A/B</a> ✅
+
+- ### 1032. <a href="https://www.acmicpc.net/problem/1032" target="_blank" rel="noopener">명령 프롬프트</a> ✅
 
 - ### 1065. <a href="https://www.acmicpc.net/problem/1065" target="_blank" rel="noopener">한수</a> ✅
 
@@ -24,17 +29,31 @@
 
 - ### 1193. <a href="https://www.acmicpc.net/problem/1193" target="_blank" rel="noopener">분수찾기</a> ✅
 
+- ### 1259. <a href="https://www.acmicpc.net/problem/1259" target="_blank" rel="noopener">팰린드롬수</a> ✅
+
+- ### 1292. <a href="https://www.acmicpc.net/problem/1292" target="_blank" rel="noopener">쉽게 푸는 문제</a> ✅
+
 - ### 1316. <a href="https://www.acmicpc.net/problem/1316" target="_blank" rel="noopener">그룹 단어 체커</a> ✅
 
 - ### 1330. <a href="https://www.acmicpc.net/problem/1330" target="_blank" rel="noopener">두 수 비교하기</a> ✅
+
+- ### 1373. <a href="https://www.acmicpc.net/problem/1373" target="_blank" rel="noopener">2진수 8진수</a> ✅
 
 - ### 1546. <a href="https://www.acmicpc.net/problem/1546" target="_blank" rel="noopener">평균</a> ✅
 
 - ### 1712. <a href="https://www.acmicpc.net/problem/1712" target="_blank" rel="noopener">손익분기점</a> ✅
 
+- ### 1924. <a href="https://www.acmicpc.net/problem/1924" target="_blank" rel="noopener">2007년</a> ✅
+
 - ### 1929. <a href="https://www.acmicpc.net/problem/1929" target="_blank" rel="noopener">소수 구하기</a> ✅
 
 - ### 1978. <a href="https://www.acmicpc.net/problem/1978" target="_blank" rel="noopener">소수 찾기</a> ✅
+
+</details>
+
+- ### 2163. <a href="https://www.acmicpc.net/problem/2163" target="_blank" rel="noopener">초콜릿 자르기</a> ✅
+
+- ### 2167. <a href="https://www.acmicpc.net/problem/2167" target="_blank" rel="noopener">2차원 배열의 합</a> ❗️
 
 - ### 2292. <a href="https://www.acmicpc.net/problem/2292" target="_blank" rel="noopener">벌집</a> ✅
 
@@ -96,6 +115,8 @@
 
 - ### 8958. <a href="https://www.acmicpc.net/problem/8958" target="_blank" rel="noopener">OX퀴즈</a> ✅
 
+- ### 9093. <a href="https://www.acmicpc.net/problem/9093" target="_blank" rel="noopener">단어 뒤집기</a> ✅
+
 - ### 9498. <a href="https://www.acmicpc.net/problem/9498" target="_blank" rel="noopener">시험 성적</a> ✅
 
 - ### 10171. <a href="https://www.acmicpc.net/problem/10171" target="_blank" rel="noopener">고양이</a> ✅
@@ -109,6 +130,8 @@
 - ### 10718. <a href="https://www.acmicpc.net/problem/10718" target="_blank" rel="noopener">We love kriii</a> ✅
 
 - ### 10757. <a href="https://www.acmicpc.net/problem/10757" target="_blank" rel="noopener">큰 수 A+B</a> ✅
+
+- ### 10798. <a href="https://www.acmicpc.net/problem/10798" target="_blank" rel="noopener">세로읽기</a> ✅
 
 - ### 10809. <a href="https://www.acmicpc.net/problem/10809" target="_blank" rel="noopener">알파벳 찾기</a> ✅
 
@@ -138,6 +161,8 @@
 
 - ### 11654. <a href="https://www.acmicpc.net/problem/11654" target="_blank" rel="noopener">아스키 코드</a> ✅
 
+- ### 11655. <a href="https://www.acmicpc.net/problem/11655" target="_blank" rel="noopener">ROT13</a> ✅
+
 - ### 11718. <a href="https://www.acmicpc.net/problem/11718" target="_blank" rel="noopener">그대로 출력하기</a> ✅
 
 - ### 11720. <a href="https://www.acmicpc.net/problem/11720" target="_blank" rel="noopener">숫자의 합</a> ✅
@@ -150,7 +175,17 @@
 
 - ### 18108. <a href="https://www.acmicpc.net/problem/18108" target="_blank" rel="noopener">1998년생인 내가 태국에서는 2541년생?!</a> ✅
 
+- ### 24883. <a href="https://www.acmicpc.net/problem/24883" target="_blank" rel="noopener">자동완성</a> ✅
+
 - ### 25083. <a href="https://www.acmicpc.net/problem/25083" target="_blank" rel="noopener">새싹</a> ✅
+
+- ### 25088. <a href="https://www.acmicpc.net/problem/25088" target="_blank" rel="noopener">Punched Cards</a> ✅
+
+- ### 25166. <a href="https://www.acmicpc.net/problem/25166" target="_blank" rel="noopener">배고픈 아리의 샌드위치 구매하기</a> ❗️
+
+- ### 25176. <a href="https://www.acmicpc.net/problem/25176" target="_blank" rel="noopener">청정수열 (Easy)</a> ✅
+
+- ### 25177. <a href="https://www.acmicpc.net/problem/25177" target="_blank" rel="noopener">서강의 역사를 찾아서</a> ✅
 
 - ### 25183. <a href="https://www.acmicpc.net/problem/25183" target="_blank" rel="noopener">인생은 한 방</a> ✅
 
