@@ -6,10 +6,11 @@
 
 ## Problems List - 푼 문제 목록
 
-> --> 각 항목들은 번호 순서대로 나열
+> --> 각 항목들은 번호 순서대로 나열했습니다.
+> --> 1000번 단위로 문제들을 나누었습니다.
 
 <details>
-<summary>1000번대</summary>
+<summary>1000 ~ 1999</summary>
 
 - ### 1000. <a href="https://www.acmicpc.net/problem/1000" target="_blank" rel="noopener">A+B</a> ✅
 
@@ -50,6 +51,8 @@
 - ### 1978. <a href="https://www.acmicpc.net/problem/1978" target="_blank" rel="noopener">소수 찾기</a> ✅
 
 </details>
+<details>
+<summary>2000 ~ 2999</summary>
 
 - ### 2163. <a href="https://www.acmicpc.net/problem/2163" target="_blank" rel="noopener">초콜릿 자르기</a> ✅
 
@@ -101,7 +104,15 @@
 
 - ### 2941. <a href="https://www.acmicpc.net/problem/2941" target="_blank" rel="noopener">크로아티아 알파벳</a> ✅
 
+</details>
+<details>
+<summary>3000 ~ 3999</summary>
+
 - ### 3052. <a href="https://www.acmicpc.net/problem/3052" target="_blank" rel="noopener">나머지</a> ✅
+
+</details>
+<details>
+<summary>4000 ~ 4999</summary>
 
 - ### 4344. <a href="https://www.acmicpc.net/problem/4344" target="_blank" rel="noopener">평균은 넘겠지</a> ✅
 
@@ -109,15 +120,31 @@
 
 - ### 4948. <a href="https://www.acmicpc.net/problem/4948" target="_blank" rel="noopener">베르트랑 공준</a> ❗️
 
+</details>
+<details>
+<summary>5000 ~ 5999</summary>
+
 - ### 5622. <a href="https://www.acmicpc.net/problem/5622" target="_blank" rel="noopener">다이얼</a> ✅
+
+</details>
+<details>
+<summary>8000 ~ 8999</summary>
 
 - ### 8393. <a href="https://www.acmicpc.net/problem/8393" target="_blank" rel="noopener">합</a> ✅
 
 - ### 8958. <a href="https://www.acmicpc.net/problem/8958" target="_blank" rel="noopener">OX퀴즈</a> ✅
 
+</details>
+<details>
+<summary>9000 ~ 9999</summary>
+
 - ### 9093. <a href="https://www.acmicpc.net/problem/9093" target="_blank" rel="noopener">단어 뒤집기</a> ✅
 
 - ### 9498. <a href="https://www.acmicpc.net/problem/9498" target="_blank" rel="noopener">시험 성적</a> ✅
+
+</details>
+<details>
+<summary>10000 ~ 10999</summary>
 
 - ### 10171. <a href="https://www.acmicpc.net/problem/10171" target="_blank" rel="noopener">고양이</a> ✅
 
@@ -153,6 +180,10 @@
 
 - ### 10998. <a href="https://www.acmicpc.net/problem/10998" target="_blank" rel="noopener">AxB</a> ✅
 
+</details>
+<details>
+<summary>11000 ~ 11999</summary>
+
 - ### 11021. <a href="https://www.acmicpc.net/problem/11021" target="_blank" rel="noopener">A+B - 7</a> ✅
 
 - ### 11022. <a href="https://www.acmicpc.net/problem/11022" target="_blank" rel="noopener">A+B - 8</a> ✅
@@ -167,15 +198,35 @@
 
 - ### 11720. <a href="https://www.acmicpc.net/problem/11720" target="_blank" rel="noopener">숫자의 합</a> ✅
 
+</details>
+<details>
+<summary>14000 ~ 14999</summary>
+
 - ### 14681. <a href="https://www.acmicpc.net/problem/14681" target="_blank" rel="noopener">사분면 고르기</a> ✅
+
+</details>
+<details>
+<summary>15000 ~ 15999</summary>
 
 - ### 15552. <a href="https://www.acmicpc.net/problem/15552" target="_blank" rel="noopener">빠른 A+B</a> ✅
 
 - ### 15596. <a href="https://www.acmicpc.net/problem/15596" target="_blank" rel="noopener">정수 N개의 합</a> ✅
 
+</details>
+<details>
+<summary>18000 ~ 18999</summary>
+
 - ### 18108. <a href="https://www.acmicpc.net/problem/18108" target="_blank" rel="noopener">1998년생인 내가 태국에서는 2541년생?!</a> ✅
 
+</details>
+<details>
+<summary>24000 ~ 24999</summary>
+
 - ### 24883. <a href="https://www.acmicpc.net/problem/24883" target="_blank" rel="noopener">자동완성</a> ✅
+
+</details>
+<details>
+<summary>25000 ~ 25999</summary>
 
 - ### 25083. <a href="https://www.acmicpc.net/problem/25083" target="_blank" rel="noopener">새싹</a> ✅
 
@@ -200,3 +251,5 @@
 - ### 25373. <a href="https://www.acmicpc.net/problem/25373" target="_blank" rel="noopener">벼락치기</a> ❗️
 
 - ### 25377. <a href="https://www.acmicpc.net/problem/25377" target="_blank" rel="noopener">빵</a> ✅
+
+</details>
