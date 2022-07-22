@@ -14,6 +14,8 @@
 
 - ### 1008. <a href="https://www.acmicpc.net/problem/1008" target="_blank" rel="noopener">A/B</a> ✅
 
+- ### 1032. <a href="https://www.acmicpc.net/problem/1032" target="_blank" rel="noopener">명령 프롬프트</a> ✅
+
 - ### 1065. <a href="https://www.acmicpc.net/problem/1065" target="_blank" rel="noopener">한수</a> ✅
 
 - ### 1110. <a href="https://www.acmicpc.net/problem/1110" target="_blank" rel="noopener">더하기 사이클</a> ✅
