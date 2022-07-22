@@ -24,6 +24,8 @@
 
 - ### 1193. <a href="https://www.acmicpc.net/problem/1193" target="_blank" rel="noopener">분수찾기</a> ✅
 
+- ### 1259. <a href="https://www.acmicpc.net/problem/1259" target="_blank" rel="noopener">팰린드롬수</a> ✅
+
 - ### 1316. <a href="https://www.acmicpc.net/problem/1316" target="_blank" rel="noopener">그룹 단어 체커</a> ✅
 
 - ### 1330. <a href="https://www.acmicpc.net/problem/1330" target="_blank" rel="noopener">두 수 비교하기</a> ✅
