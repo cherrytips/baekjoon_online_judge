@@ -152,6 +152,8 @@
 
 - ### 25083. <a href="https://www.acmicpc.net/problem/25083" target="_blank" rel="noopener">새싹</a> ✅
 
+- ### 25088. <a href="https://www.acmicpc.net/problem/25088" target="_blank" rel="noopener">Punched Cards</a> ✅
+
 - ### 25166. <a href="https://www.acmicpc.net/problem/25166" target="_blank" rel="noopener">배고픈 아리의 샌드위치 구매하기</a> ❗️
 
 - ### 25176. <a href="https://www.acmicpc.net/problem/25176" target="_blank" rel="noopener">청정수열 (Easy)</a> ✅
