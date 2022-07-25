@@ -133,6 +133,8 @@
 
 - ### 4948. <a href="https://www.acmicpc.net/problem/4948" target="_blank" rel="noopener">베르트랑 공준</a> ❗️
 
+- ### 4949. <a href="https://www.acmicpc.net/problem/4949" target="_blank" rel="noopener">균형잡힌 세상</a> ✅
+
 </details>
 <details>
 <summary>5000 ~ 5999</summary>
