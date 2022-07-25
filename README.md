@@ -177,6 +177,8 @@
 
 - ### 10757. <a href="https://www.acmicpc.net/problem/10757" target="_blank" rel="noopener">큰 수 A+B</a> ✅
 
+- ### 10773. <a href="https://www.acmicpc.net/problem/10773" target="_blank" rel="noopener">제로</a> ✅
+
 - ### 10798. <a href="https://www.acmicpc.net/problem/10798" target="_blank" rel="noopener">세로읽기</a> ✅
 
 - ### 10809. <a href="https://www.acmicpc.net/problem/10809" target="_blank" rel="noopener">알파벳 찾기</a> ✅
