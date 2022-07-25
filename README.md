@@ -35,6 +35,8 @@
 
 - ### 1193. <a href="https://www.acmicpc.net/problem/1193" target="_blank" rel="noopener">분수찾기</a> ✅
 
+- ### 1235. <a href="https://www.acmicpc.net/problem/1235" target="_blank" rel="noopener">학생 번호</a> ✅
+
 - ### 1259. <a href="https://www.acmicpc.net/problem/1259" target="_blank" rel="noopener">팰린드롬수</a> ✅
 
 - ### 1292. <a href="https://www.acmicpc.net/problem/1292" target="_blank" rel="noopener">쉽게 푸는 문제</a> ✅
