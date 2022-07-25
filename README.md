@@ -149,6 +149,8 @@
 <details>
 <summary>9000 ~ 9999</summary>
 
+- ### 9012. <a href="https://www.acmicpc.net/problem/9012" target="_blank" rel="noopener">괄호</a> ✅
+
 - ### 9093. <a href="https://www.acmicpc.net/problem/9093" target="_blank" rel="noopener">단어 뒤집기</a> ✅
 
 - ### 9237. <a href="https://www.acmicpc.net/problem/9237" target="_blank" rel="noopener">이장님 초대</a> ✅
