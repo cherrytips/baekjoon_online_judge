@@ -229,6 +229,12 @@
 
 </details>
 <details>
+<summary>16000 ~ 16999</summary>
+
+- ### 16435. <a href="https://www.acmicpc.net/problem/16435" target="_blank" rel="noopener">스네이크버드</a> ✅
+
+</details>
+<details>
 <summary>18000 ~ 18999</summary>
 
 - ### 18108. <a href="https://www.acmicpc.net/problem/18108" target="_blank" rel="noopener">1998년생인 내가 태국에서는 2541년생?!</a> ✅
