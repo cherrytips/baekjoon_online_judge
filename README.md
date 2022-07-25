@@ -149,6 +149,8 @@
 
 - ### 9093. <a href="https://www.acmicpc.net/problem/9093" target="_blank" rel="noopener">단어 뒤집기</a> ✅
 
+- ### 9237. <a href="https://www.acmicpc.net/problem/9237" target="_blank" rel="noopener">이장님 초대</a> ✅
+
 - ### 9498. <a href="https://www.acmicpc.net/problem/9498" target="_blank" rel="noopener">시험 성적</a> ✅
 
 - ### 9625. <a href="https://www.acmicpc.net/problem/9625" target="_blank" rel="noopener">BABBA</a> ✅
