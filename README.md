@@ -183,6 +183,8 @@
 
 - ### 10828. <a href="https://www.acmicpc.net/problem/10828" target="_blank" rel="noopener">스택</a> ✅
 
+- ### 10845. <a href="https://www.acmicpc.net/problem/10845" target="_blank" rel="noopener">큐</a> ✅
+
 - ### 10869. <a href="https://www.acmicpc.net/problem/10869" target="_blank" rel="noopener">사칙연산</a> ✅
 
 - ### 10871. <a href="https://www.acmicpc.net/problem/10871" target="_blank" rel="noopener">X보다 작은 수</a> ✅
