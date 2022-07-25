@@ -47,6 +47,8 @@
 
 - ### 1712. <a href="https://www.acmicpc.net/problem/1712" target="_blank" rel="noopener">손익분기점</a> ✅
 
+- ### 1769. <a href="https://www.acmicpc.net/problem/1769" target="_blank" rel="noopener">3의 배수</a> ✅
+
 - ### 1924. <a href="https://www.acmicpc.net/problem/1924" target="_blank" rel="noopener">2007년</a> ✅
 
 - ### 1929. <a href="https://www.acmicpc.net/problem/1929" target="_blank" rel="noopener">소수 구하기</a> ✅
