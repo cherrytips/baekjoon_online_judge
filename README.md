@@ -49,6 +49,8 @@
 
 - ### 1546. <a href="https://www.acmicpc.net/problem/1546" target="_blank" rel="noopener">평균</a> ✅
 
+- ### 1620. <a href="https://www.acmicpc.net/problem/1620" target="_blank" rel="noopener">나는야 포켓몬 마스터 이다솜</a> ❗️
+
 - ### 1712. <a href="https://www.acmicpc.net/problem/1712" target="_blank" rel="noopener">손익분기점</a> ✅
 
 - ### 1769. <a href="https://www.acmicpc.net/problem/1769" target="_blank" rel="noopener">3의 배수</a> ✅
