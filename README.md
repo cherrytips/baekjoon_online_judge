@@ -131,6 +131,8 @@
 
 - ### 5622. <a href="https://www.acmicpc.net/problem/5622" target="_blank" rel="noopener">다이얼</a> ✅
 
+- ### 5635. <a href="https://www.acmicpc.net/problem/5635" target="_blank" rel="noopener">생일</a> ✅
+
 </details>
 <details>
 <summary>8000 ~ 8999</summary>
