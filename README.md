@@ -203,6 +203,8 @@
 
 - ### 11022. <a href="https://www.acmicpc.net/problem/11022" target="_blank" rel="noopener">A+B - 8</a> ✅
 
+- ### 11650. <a href="https://www.acmicpc.net/problem/11650" target="_blank" rel="noopener">좌표 정렬하기</a> ✅
+
 - ### 11653. <a href="https://www.acmicpc.net/problem/11653" target="_blank" rel="noopener">소인수분해</a> ✅
 
 - ### 11654. <a href="https://www.acmicpc.net/problem/11654" target="_blank" rel="noopener">아스키 코드</a> ✅
