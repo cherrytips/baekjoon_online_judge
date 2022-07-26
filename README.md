@@ -249,6 +249,8 @@
 <details>
 <summary>14000 ~ 14999</summary>
 
+- ### 14501. <a href="https://www.acmicpc.net/problem/14501" target="_blank" rel="noopener">퇴사</a> ❗️
+
 - ### 14681. <a href="https://www.acmicpc.net/problem/14681" target="_blank" rel="noopener">사분면 고르기</a> ✅
 
 </details>
