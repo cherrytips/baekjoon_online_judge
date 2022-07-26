@@ -131,6 +131,8 @@
 
 - ### 3052. <a href="https://www.acmicpc.net/problem/3052" target="_blank" rel="noopener">나머지</a> ✅
 
+- ### 3474. <a href="https://www.acmicpc.net/problem/3474" target="_blank" rel="noopener">교수가 된 현우</a> ✅
+
 </details>
 <details>
 <summary>4000 ~ 4999</summary>
