@@ -97,6 +97,8 @@
 
 - ### 2588. <a href="https://www.acmicpc.net/problem/2588" target="_blank" rel="noopener">곱셈</a> ✅
 
+- ### 2606. <a href="https://www.acmicpc.net/problem/2606" target="_blank" rel="noopener">바이러스</a> ❗️
+
 - ### 2675. <a href="https://www.acmicpc.net/problem/2675" target="_blank" rel="noopener">문자열 반복</a> ✅
 
 - ### 2693. <a href="https://www.acmicpc.net/problem/2693" target="_blank" rel="noopener">N번째 큰 수</a> ✅
@@ -229,7 +231,7 @@
 
 - ### 11650. <a href="https://www.acmicpc.net/problem/11650" target="_blank" rel="noopener">좌표 정렬하기</a> ✅
 
-- ### 11652. <a href="https://www.acmicpc.net/problem/11652" target="_blank" rel="noopener">카드</a> ✅
+- ### 11652. <a href="https://www.acmicpc.net/problem/11652" target="_blank" rel="noopener">카드</a> ❗️
 
 - ### 11653. <a href="https://www.acmicpc.net/problem/11653" target="_blank" rel="noopener">소인수분해</a> ✅
 
