@@ -69,6 +69,8 @@
 <details>
 <summary>2000 ~ 2999</summary>
 
+- ### 2003. <a href="https://www.acmicpc.net/problem/2003" target="_blank" rel="noopener">수들의 합 2</a> ✅
+
 - ### 2163. <a href="https://www.acmicpc.net/problem/2163" target="_blank" rel="noopener">초콜릿 자르기</a> ✅
 
 - ### 2167. <a href="https://www.acmicpc.net/problem/2167" target="_blank" rel="noopener">2차원 배열의 합</a> ❗️
