@@ -19,6 +19,8 @@
 
 - ### 1008. <a href="https://www.acmicpc.net/problem/1008" target="_blank" rel="noopener">A/B</a> ✅
 
+- ### 1026. <a href="https://www.acmicpc.net/problem/1026" target="_blank" rel="noopener">보물</a> ✅
+
 - ### 1032. <a href="https://www.acmicpc.net/problem/1032" target="_blank" rel="noopener">명령 프롬프트</a> ✅
 
 - ### 1065. <a href="https://www.acmicpc.net/problem/1065" target="_blank" rel="noopener">한수</a> ✅
@@ -29,7 +31,11 @@
 
 - ### 1157. <a href="https://www.acmicpc.net/problem/1157" target="_blank" rel="noopener">단어 공부</a> ✅
 
+- ### 1181. <a href="https://www.acmicpc.net/problem/1181" target="_blank" rel="noopener">단어 정렬</a> ✅
+
 - ### 1193. <a href="https://www.acmicpc.net/problem/1193" target="_blank" rel="noopener">분수찾기</a> ✅
+
+- ### 1235. <a href="https://www.acmicpc.net/problem/1235" target="_blank" rel="noopener">학생 번호</a> ✅
 
 - ### 1259. <a href="https://www.acmicpc.net/problem/1259" target="_blank" rel="noopener">팰린드롬수</a> ✅
 
@@ -45,7 +51,13 @@
 
 - ### 1546. <a href="https://www.acmicpc.net/problem/1546" target="_blank" rel="noopener">평균</a> ✅
 
+- ### 1620. <a href="https://www.acmicpc.net/problem/1620" target="_blank" rel="noopener">나는야 포켓몬 마스터 이다솜</a> ❗️
+
 - ### 1712. <a href="https://www.acmicpc.net/problem/1712" target="_blank" rel="noopener">손익분기점</a> ✅
+
+- ### 1769. <a href="https://www.acmicpc.net/problem/1769" target="_blank" rel="noopener">3의 배수</a> ✅
+
+- ### 1920. <a href="https://www.acmicpc.net/problem/1920" target="_blank" rel="noopener">수 찾기</a> ✅
 
 - ### 1924. <a href="https://www.acmicpc.net/problem/1924" target="_blank" rel="noopener">2007년</a> ✅
 
@@ -56,6 +68,8 @@
 </details>
 <details>
 <summary>2000 ~ 2999</summary>
+
+- ### 2003. <a href="https://www.acmicpc.net/problem/2003" target="_blank" rel="noopener">수들의 합 2</a> ✅
 
 - ### 2163. <a href="https://www.acmicpc.net/problem/2163" target="_blank" rel="noopener">초콜릿 자르기</a> ✅
 
@@ -82,6 +96,8 @@
 - ### 2581. <a href="https://www.acmicpc.net/problem/2581" target="_blank" rel="noopener">소수</a> ✅
 
 - ### 2588. <a href="https://www.acmicpc.net/problem/2588" target="_blank" rel="noopener">곱셈</a> ✅
+
+- ### 2606. <a href="https://www.acmicpc.net/problem/2606" target="_blank" rel="noopener">바이러스</a> ❗️
 
 - ### 2675. <a href="https://www.acmicpc.net/problem/2675" target="_blank" rel="noopener">문자열 반복</a> ✅
 
@@ -115,6 +131,8 @@
 
 - ### 3052. <a href="https://www.acmicpc.net/problem/3052" target="_blank" rel="noopener">나머지</a> ✅
 
+- ### 3474. <a href="https://www.acmicpc.net/problem/3474" target="_blank" rel="noopener">교수가 된 현우</a> ✅
+
 </details>
 <details>
 <summary>4000 ~ 4999</summary>
@@ -125,11 +143,17 @@
 
 - ### 4948. <a href="https://www.acmicpc.net/problem/4948" target="_blank" rel="noopener">베르트랑 공준</a> ❗️
 
+- ### 4949. <a href="https://www.acmicpc.net/problem/4949" target="_blank" rel="noopener">균형잡힌 세상</a> ✅
+
 </details>
 <details>
 <summary>5000 ~ 5999</summary>
 
+- ### 5545. <a href="https://www.acmicpc.net/problem/5545" target="_blank" rel="noopener">최고의 피자</a> ✅
+
 - ### 5622. <a href="https://www.acmicpc.net/problem/5622" target="_blank" rel="noopener">다이얼</a> ✅
+
+- ### 5635. <a href="https://www.acmicpc.net/problem/5635" target="_blank" rel="noopener">생일</a> ✅
 
 </details>
 <details>
@@ -143,7 +167,11 @@
 <details>
 <summary>9000 ~ 9999</summary>
 
+- ### 9012. <a href="https://www.acmicpc.net/problem/9012" target="_blank" rel="noopener">괄호</a> ✅
+
 - ### 9093. <a href="https://www.acmicpc.net/problem/9093" target="_blank" rel="noopener">단어 뒤집기</a> ✅
+
+- ### 9237. <a href="https://www.acmicpc.net/problem/9237" target="_blank" rel="noopener">이장님 초대</a> ✅
 
 - ### 9498. <a href="https://www.acmicpc.net/problem/9498" target="_blank" rel="noopener">시험 성적</a> ✅
 
@@ -165,11 +193,17 @@
 
 - ### 10757. <a href="https://www.acmicpc.net/problem/10757" target="_blank" rel="noopener">큰 수 A+B</a> ✅
 
+- ### 10773. <a href="https://www.acmicpc.net/problem/10773" target="_blank" rel="noopener">제로</a> ✅
+
 - ### 10798. <a href="https://www.acmicpc.net/problem/10798" target="_blank" rel="noopener">세로읽기</a> ✅
 
 - ### 10809. <a href="https://www.acmicpc.net/problem/10809" target="_blank" rel="noopener">알파벳 찾기</a> ✅
 
 - ### 10818. <a href="https://www.acmicpc.net/problem/10818" target="_blank" rel="noopener">최소, 최대</a> ✅
+
+- ### 10828. <a href="https://www.acmicpc.net/problem/10828" target="_blank" rel="noopener">스택</a> ✅
+
+- ### 10845. <a href="https://www.acmicpc.net/problem/10845" target="_blank" rel="noopener">큐</a> ✅
 
 - ### 10869. <a href="https://www.acmicpc.net/problem/10869" target="_blank" rel="noopener">사칙연산</a> ✅
 
@@ -195,6 +229,14 @@
 
 - ### 11022. <a href="https://www.acmicpc.net/problem/11022" target="_blank" rel="noopener">A+B - 8</a> ✅
 
+- ### 11047. <a href="https://www.acmicpc.net/problem/11047" target="_blank" rel="noopener">동전 0</a> ✅
+
+- ### 11399. <a href="https://www.acmicpc.net/problem/11399" target="_blank" rel="noopener">ATM</a> ✅
+
+- ### 11650. <a href="https://www.acmicpc.net/problem/11650" target="_blank" rel="noopener">좌표 정렬하기</a> ✅
+
+- ### 11652. <a href="https://www.acmicpc.net/problem/11652" target="_blank" rel="noopener">카드</a> ❗️
+
 - ### 11653. <a href="https://www.acmicpc.net/problem/11653" target="_blank" rel="noopener">소인수분해</a> ✅
 
 - ### 11654. <a href="https://www.acmicpc.net/problem/11654" target="_blank" rel="noopener">아스키 코드</a> ✅
@@ -205,9 +247,15 @@
 
 - ### 11720. <a href="https://www.acmicpc.net/problem/11720" target="_blank" rel="noopener">숫자의 합</a> ✅
 
+- ### 11899. <a href="https://www.acmicpc.net/problem/11899" target="_blank" rel="noopener">괄호 끼워넣기</a> ✅
+
+- ### 11931. <a href="https://www.acmicpc.net/problem/11931" target="_blank" rel="noopener">수 정렬하기 4</a> ✅
+
 </details>
 <details>
 <summary>14000 ~ 14999</summary>
+
+- ### 14501. <a href="https://www.acmicpc.net/problem/14501" target="_blank" rel="noopener">퇴사</a> ❗️
 
 - ### 14681. <a href="https://www.acmicpc.net/problem/14681" target="_blank" rel="noopener">사분면 고르기</a> ✅
 
@@ -218,6 +266,18 @@
 - ### 15552. <a href="https://www.acmicpc.net/problem/15552" target="_blank" rel="noopener">빠른 A+B</a> ✅
 
 - ### 15596. <a href="https://www.acmicpc.net/problem/15596" target="_blank" rel="noopener">정수 N개의 합</a> ✅
+
+</details>
+<details>
+<summary>17000 ~ 17999</summary>
+
+- ### 17952. <a href="https://www.acmicpc.net/problem/17952" target="_blank" rel="noopener">과제는 끝나지 않아!</a> ✅
+
+</details>
+<details>
+<summary>16000 ~ 16999</summary>
+
+- ### 16435. <a href="https://www.acmicpc.net/problem/16435" target="_blank" rel="noopener">스네이크버드</a> ✅
 
 </details>
 <details>
