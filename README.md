@@ -287,6 +287,12 @@
 
 </details>
 <details>
+<summary>20000 ~ 20999</summary>
+
+- ### 20291. <a href="https://www.acmicpc.net/problem/20291" target="_blank" rel="noopener">파일 정리</a> ✅
+
+</details>
+<details>
 <summary>24000 ~ 24999</summary>
 
 - ### 24883. <a href="https://www.acmicpc.net/problem/24883" target="_blank" rel="noopener">자동완성</a> ✅
