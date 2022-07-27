@@ -219,6 +219,8 @@
 
 - ### 10952. <a href="https://www.acmicpc.net/problem/10952" target="_blank" rel="noopener">A+B - 5</a> ✅
 
+- ### 10974. <a href="https://www.acmicpc.net/problem/10974" target="_blank" rel="noopener">모든 순열</a> ✅
+
 - ### 10998. <a href="https://www.acmicpc.net/problem/10998" target="_blank" rel="noopener">AxB</a> ✅
 
 </details>
