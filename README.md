@@ -297,6 +297,12 @@
 
 </details>
 <details>
+<summary>21000 ~ 21999</summary>
+
+- ### 21921. <a href="https://www.acmicpc.net/problem/21921" target="_blank" rel="noopener">블로그</a> ❗️
+
+</details>
+<details>
 <summary>24000 ~ 24999</summary>
 
 - ### 24883. <a href="https://www.acmicpc.net/problem/24883" target="_blank" rel="noopener">자동완성</a> ✅
