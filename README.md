@@ -131,7 +131,7 @@
 
 - ### 3052. <a href="https://www.acmicpc.net/problem/3052" target="_blank" rel="noopener">나머지</a> ✅
 
-- ### 3474. <a href="https://www.acmicpc.net/problem/3474" target="_blank" rel="noopener">교수가 된 현우</a> ✅
+- ### 3474. <a href="https://www.acmicpc.net/problem/3474" target="_blank" rel="noopener">교수가 된 현우</a> ❗️
 
 </details>
 <details>
@@ -168,6 +168,8 @@
 <summary>9000 ~ 9999</summary>
 
 - ### 9012. <a href="https://www.acmicpc.net/problem/9012" target="_blank" rel="noopener">괄호</a> ✅
+
+- ### 9020. <a href="https://www.acmicpc.net/problem/9020" target="_blank" rel="noopener">골드바흐의 추측</a> ✅
 
 - ### 9093. <a href="https://www.acmicpc.net/problem/9093" target="_blank" rel="noopener">단어 뒤집기</a> ✅
 
@@ -218,6 +220,8 @@
 - ### 10951. <a href="https://www.acmicpc.net/problem/10951" target="_blank" rel="noopener">A+B - 4</a> ✅
 
 - ### 10952. <a href="https://www.acmicpc.net/problem/10952" target="_blank" rel="noopener">A+B - 5</a> ✅
+
+- ### 10974. <a href="https://www.acmicpc.net/problem/10974" target="_blank" rel="noopener">모든 순열</a> ✅
 
 - ### 10998. <a href="https://www.acmicpc.net/problem/10998" target="_blank" rel="noopener">AxB</a> ✅
 
@@ -284,6 +288,20 @@
 <summary>18000 ~ 18999</summary>
 
 - ### 18108. <a href="https://www.acmicpc.net/problem/18108" target="_blank" rel="noopener">1998년생인 내가 태국에서는 2541년생?!</a> ✅
+
+</details>
+<details>
+<summary>20000 ~ 20999</summary>
+
+- ### 20115. <a href="https://www.acmicpc.net/problem/20115" target="_blank" rel="noopener">에너지 드링크</a> ✅
+
+- ### 20291. <a href="https://www.acmicpc.net/problem/20291" target="_blank" rel="noopener">파일 정리</a> ✅
+
+</details>
+<details>
+<summary>21000 ~ 21999</summary>
+
+- ### 21921. <a href="https://www.acmicpc.net/problem/21921" target="_blank" rel="noopener">블로그</a> ❗️
 
 </details>
 <details>
