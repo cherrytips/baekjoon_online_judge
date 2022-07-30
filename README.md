@@ -169,6 +169,8 @@
 
 - ### 9012. <a href="https://www.acmicpc.net/problem/9012" target="_blank" rel="noopener">괄호</a> ✅
 
+- ### 9020. <a href="https://www.acmicpc.net/problem/9020" target="_blank" rel="noopener">골드바흐의 추측</a> ✅
+
 - ### 9093. <a href="https://www.acmicpc.net/problem/9093" target="_blank" rel="noopener">단어 뒤집기</a> ✅
 
 - ### 9237. <a href="https://www.acmicpc.net/problem/9237" target="_blank" rel="noopener">이장님 초대</a> ✅
