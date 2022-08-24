@@ -211,6 +211,8 @@
 
 - ### 10869. <a href="https://www.acmicpc.net/problem/10869" target="_blank" rel="noopener">사칙연산</a> ✅
 
+- ### 10870. <a href="https://www.acmicpc.net/problem/10870" target="_blank" rel="noopener">피보나치 수 5</a> ✅
+
 - ### 10871. <a href="https://www.acmicpc.net/problem/10871" target="_blank" rel="noopener">X보다 작은 수</a> ✅
 
 - ### 10872. <a href="https://www.acmicpc.net/problem/10872" target="_blank" rel="noopener">팩토리얼</a> ✅
