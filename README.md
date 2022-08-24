@@ -75,6 +75,8 @@
 
 - ### 2167. <a href="https://www.acmicpc.net/problem/2167" target="_blank" rel="noopener">2차원 배열의 합</a> ❗️
 
+- ### 2231. <a href="https://www.acmicpc.net/problem/2231" target="_blank" rel="noopener">분해합</a> ✅
+
 - ### 2292. <a href="https://www.acmicpc.net/problem/2292" target="_blank" rel="noopener">벌집</a> ✅
 
 - ### 2438. <a href="https://www.acmicpc.net/problem/2438" target="_blank" rel="noopener">별 찍기 - 1</a> ✅
@@ -114,6 +116,8 @@
 - ### 2753. <a href="https://www.acmicpc.net/problem/2753" target="_blank" rel="noopener">윤년</a> ✅
 
 - ### 2775. <a href="https://www.acmicpc.net/problem/2775" target="_blank" rel="noopener">부녀회장이 될테야</a> ✅
+
+- ### 2798. <a href="https://www.acmicpc.net/problem/2798" target="_blank" rel="noopener">블랙잭</a> ✅
 
 - ### 2839. <a href="https://www.acmicpc.net/problem/2839" target="_blank" rel="noopener">설탕 배달</a> ✅
 
@@ -156,6 +160,12 @@
 - ### 5622. <a href="https://www.acmicpc.net/problem/5622" target="_blank" rel="noopener">다이얼</a> ✅
 
 - ### 5635. <a href="https://www.acmicpc.net/problem/5635" target="_blank" rel="noopener">생일</a> ✅
+
+</details>
+<details>
+<summary>7000 ~ 7999</summary>
+
+- ### 7568. <a href="https://www.acmicpc.net/problem/7568" target="_blank" rel="noopener">덩치</a> ✅
 
 </details>
 <details>
@@ -277,15 +287,17 @@
 
 </details>
 <details>
-<summary>17000 ~ 17999</summary>
-
-- ### 17952. <a href="https://www.acmicpc.net/problem/17952" target="_blank" rel="noopener">과제는 끝나지 않아!</a> ✅
-
-</details>
-<details>
 <summary>16000 ~ 16999</summary>
 
 - ### 16435. <a href="https://www.acmicpc.net/problem/16435" target="_blank" rel="noopener">스네이크버드</a> ✅
+
+</details>
+<details>
+<summary>17000 ~ 17999</summary>
+
+- ### 17478. <a href="https://www.acmicpc.net/problem/17478" target="_blank" rel="noopener">재귀함수가 뭔가요?</a> ✅
+
+- ### 17952. <a href="https://www.acmicpc.net/problem/17952" target="_blank" rel="noopener">과제는 끝나지 않아!</a> ✅
 
 </details>
 <details>
