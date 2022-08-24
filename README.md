@@ -163,6 +163,12 @@
 
 </details>
 <details>
+<summary>7000 ~ 7999</summary>
+
+- ### 7568. <a href="https://www.acmicpc.net/problem/7568" target="_blank" rel="noopener">덩치</a> ✅
+
+</details>
+<details>
 <summary>8000 ~ 8999</summary>
 
 - ### 8393. <a href="https://www.acmicpc.net/problem/8393" target="_blank" rel="noopener">합</a> ✅
