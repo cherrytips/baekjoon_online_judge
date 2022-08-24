@@ -75,6 +75,8 @@
 
 - ### 2167. <a href="https://www.acmicpc.net/problem/2167" target="_blank" rel="noopener">2차원 배열의 합</a> ❗️
 
+- ### 2231. <a href="https://www.acmicpc.net/problem/2231" target="_blank" rel="noopener">분해합</a> ✅
+
 - ### 2292. <a href="https://www.acmicpc.net/problem/2292" target="_blank" rel="noopener">벌집</a> ✅
 
 - ### 2438. <a href="https://www.acmicpc.net/problem/2438" target="_blank" rel="noopener">별 찍기 - 1</a> ✅
