@@ -129,6 +129,8 @@
 <details>
 <summary>3000 ~ 3999</summary>
 
+- ### 3003. <a href="https://www.acmicpc.net/problem/3003" target="_blank" rel="noopener">킹, 퀸, 룩, 비숍, 나이트, 폰</a> ✅
+
 - ### 3052. <a href="https://www.acmicpc.net/problem/3052" target="_blank" rel="noopener">나머지</a> ✅
 
 - ### 3474. <a href="https://www.acmicpc.net/problem/3474" target="_blank" rel="noopener">교수가 된 현우</a> ❗️
