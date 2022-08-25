@@ -19,6 +19,8 @@
 
 - ### 1008. <a href="https://www.acmicpc.net/problem/1008" target="_blank" rel="noopener">A/B</a> ✅
 
+- ### 1018. <a href="https://www.acmicpc.net/problem/1018" target="_blank" rel="noopener">체스판 다시 칠하기</a> ✅
+
 - ### 1026. <a href="https://www.acmicpc.net/problem/1026" target="_blank" rel="noopener">보물</a> ✅
 
 - ### 1032. <a href="https://www.acmicpc.net/problem/1032" target="_blank" rel="noopener">명령 프롬프트</a> ✅
