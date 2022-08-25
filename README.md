@@ -19,6 +19,8 @@
 
 - ### 1008. <a href="https://www.acmicpc.net/problem/1008" target="_blank" rel="noopener">A/B</a> ✅
 
+- ### 1018. <a href="https://www.acmicpc.net/problem/1018" target="_blank" rel="noopener">체스판 다시 칠하기</a> ✅
+
 - ### 1026. <a href="https://www.acmicpc.net/problem/1026" target="_blank" rel="noopener">보물</a> ✅
 
 - ### 1032. <a href="https://www.acmicpc.net/problem/1032" target="_blank" rel="noopener">명령 프롬프트</a> ✅
@@ -48,6 +50,8 @@
 - ### 1357. <a href="https://www.acmicpc.net/problem/1357" target="_blank" rel="noopener">뒤집힌 덧셈</a> ✅
 
 - ### 1373. <a href="https://www.acmicpc.net/problem/1373" target="_blank" rel="noopener">2진수 8진수</a> ✅
+
+- ### 1427. <a href="https://www.acmicpc.net/problem/1427" target="_blank" rel="noopener">소트인사이드</a> ✅
 
 - ### 1546. <a href="https://www.acmicpc.net/problem/1546" target="_blank" rel="noopener">평균</a> ✅
 
@@ -113,6 +117,8 @@
 
 - ### 2743. <a href="https://www.acmicpc.net/problem/2743" target="_blank" rel="noopener">단어 길이 재기</a> ✅
 
+- ### 2750. <a href="https://www.acmicpc.net/problem/2750" target="_blank" rel="noopener">수 정렬하기</a> ✅
+
 - ### 2753. <a href="https://www.acmicpc.net/problem/2753" target="_blank" rel="noopener">윤년</a> ✅
 
 - ### 2775. <a href="https://www.acmicpc.net/problem/2775" target="_blank" rel="noopener">부녀회장이 될테야</a> ✅
@@ -128,6 +134,8 @@
 - ### 2908. <a href="https://www.acmicpc.net/problem/2908" target="_blank" rel="noopener">상수</a> ✅
 
 - ### 2941. <a href="https://www.acmicpc.net/problem/2941" target="_blank" rel="noopener">크로아티아 알파벳</a> ✅
+
+- ### 2981. <a href="https://www.acmicpc.net/problem/2981" target="_blank" rel="noopener">검문</a> ✅
 
 </details>
 <details>
@@ -212,6 +220,8 @@
 - ### 10798. <a href="https://www.acmicpc.net/problem/10798" target="_blank" rel="noopener">세로읽기</a> ✅
 
 - ### 10809. <a href="https://www.acmicpc.net/problem/10809" target="_blank" rel="noopener">알파벳 찾기</a> ✅
+
+- ### 10815. <a href="https://www.acmicpc.net/problem/10815" target="_blank" rel="noopener">숫자 카드</a> ✅
 
 - ### 10818. <a href="https://www.acmicpc.net/problem/10818" target="_blank" rel="noopener">최소, 최대</a> ✅
 
