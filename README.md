@@ -51,6 +51,8 @@
 
 - ### 1373. <a href="https://www.acmicpc.net/problem/1373" target="_blank" rel="noopener">2진수 8진수</a> ✅
 
+- ### 1427. <a href="https://www.acmicpc.net/problem/1427" target="_blank" rel="noopener">소트인사이드</a> ✅
+
 - ### 1546. <a href="https://www.acmicpc.net/problem/1546" target="_blank" rel="noopener">평균</a> ✅
 
 - ### 1620. <a href="https://www.acmicpc.net/problem/1620" target="_blank" rel="noopener">나는야 포켓몬 마스터 이다솜</a> ❗️
