@@ -135,6 +135,8 @@
 
 - ### 2941. <a href="https://www.acmicpc.net/problem/2941" target="_blank" rel="noopener">크로아티아 알파벳</a> ✅
 
+- ### 2981. <a href="https://www.acmicpc.net/problem/2981" target="_blank" rel="noopener">검문</a> ✅
+
 </details>
 <details>
 <summary>3000 ~ 3999</summary>
