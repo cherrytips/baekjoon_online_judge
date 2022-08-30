@@ -25,6 +25,8 @@
 
 - ### 1032. <a href="https://www.acmicpc.net/problem/1032" target="_blank" rel="noopener">명령 프롬프트</a> ✅
 
+- ### 1037. <a href="https://www.acmicpc.net/problem/1037" target="_blank" rel="noopener">약수</a> ✅
+
 - ### 1065. <a href="https://www.acmicpc.net/problem/1065" target="_blank" rel="noopener">한수</a> ✅
 
 - ### 1110. <a href="https://www.acmicpc.net/problem/1110" target="_blank" rel="noopener">더하기 사이클</a> ✅
@@ -152,6 +154,8 @@
 <summary>4000 ~ 4999</summary>
 
 - ### 4344. <a href="https://www.acmicpc.net/problem/4344" target="_blank" rel="noopener">평균은 넘겠지</a> ✅
+
+- ### 4375. <a href="https://www.acmicpc.net/problem/4375" target="_blank" rel="noopener">1</a> ✅
 
 - ### 4673. <a href="https://www.acmicpc.net/problem/4673" target="_blank" rel="noopener">셀프 넘버</a> ✅
 
