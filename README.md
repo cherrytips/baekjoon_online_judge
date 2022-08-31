@@ -309,6 +309,8 @@
 <details>
 <summary>17000 ~ 17999</summary>
 
+- ### 17427. <a href="https://www.acmicpc.net/problem/17427" target="_blank" rel="noopener">약수의 합 2</a> ✅
+
 - ### 17478. <a href="https://www.acmicpc.net/problem/17478" target="_blank" rel="noopener">재귀함수가 뭔가요?</a> ✅
 
 - ### 17952. <a href="https://www.acmicpc.net/problem/17952" target="_blank" rel="noopener">과제는 끝나지 않아!</a> ✅
