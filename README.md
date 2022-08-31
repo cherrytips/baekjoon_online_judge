@@ -107,6 +107,8 @@
 
 - ### 2606. <a href="https://www.acmicpc.net/problem/2606" target="_blank" rel="noopener">바이러스</a> ❗️
 
+- ### 2609. <a href="https://www.acmicpc.net/problem/2609" target="_blank" rel="noopener">최대공약수와 최소공배수</a> ✅
+
 - ### 2675. <a href="https://www.acmicpc.net/problem/2675" target="_blank" rel="noopener">문자열 반복</a> ✅
 
 - ### 2693. <a href="https://www.acmicpc.net/problem/2693" target="_blank" rel="noopener">N번째 큰 수</a> ✅
