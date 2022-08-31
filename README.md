@@ -177,6 +177,10 @@
 
 </details>
 <details>
+<summary>6000 ~ 6999</summary>
+- ### 6588. <a href="https://www.acmicpc.net/problem/6588" target="_blank" rel="noopener">골드바흐의 추측</a> ✅
+</details>
+<details>
 <summary>7000 ~ 7999</summary>
 
 - ### 7568. <a href="https://www.acmicpc.net/problem/7568" target="_blank" rel="noopener">덩치</a> ✅
