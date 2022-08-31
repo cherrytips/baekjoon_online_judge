@@ -85,6 +85,8 @@
 
 - ### 2292. <a href="https://www.acmicpc.net/problem/2292" target="_blank" rel="noopener">벌집</a> ✅
 
+- ### 2309. <a href="https://www.acmicpc.net/problem/2309" target="_blank" rel="noopener">일곱 난쟁이</a> ✅
+
 - ### 2438. <a href="https://www.acmicpc.net/problem/2438" target="_blank" rel="noopener">별 찍기 - 1</a> ✅
 
 - ### 2439. <a href="https://www.acmicpc.net/problem/2439" target="_blank" rel="noopener">별 찍기 - 2</a> ✅
@@ -175,6 +177,10 @@
 
 - ### 5635. <a href="https://www.acmicpc.net/problem/5635" target="_blank" rel="noopener">생일</a> ✅
 
+</details>
+<details>
+<summary>6000 ~ 6999</summary>
+- ### 6588. <a href="https://www.acmicpc.net/problem/6588" target="_blank" rel="noopener">골드바흐의 추측</a> ✅
 </details>
 <details>
 <summary>7000 ~ 7999</summary>
