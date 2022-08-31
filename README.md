@@ -85,6 +85,8 @@
 
 - ### 2292. <a href="https://www.acmicpc.net/problem/2292" target="_blank" rel="noopener">벌집</a> ✅
 
+- ### 2309. <a href="https://www.acmicpc.net/problem/2309" target="_blank" rel="noopener">일곱 난쟁이</a> ✅
+
 - ### 2438. <a href="https://www.acmicpc.net/problem/2438" target="_blank" rel="noopener">별 찍기 - 1</a> ✅
 
 - ### 2439. <a href="https://www.acmicpc.net/problem/2439" target="_blank" rel="noopener">별 찍기 - 2</a> ✅
