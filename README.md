@@ -151,6 +151,8 @@
 
 - ### 3052. <a href="https://www.acmicpc.net/problem/3052" target="_blank" rel="noopener">나머지</a> ✅
 
+- ### 3085. <a href="https://www.acmicpc.net/problem/3085" target="_blank" rel="noopener">사탕 게임</a> ✅
+
 - ### 3474. <a href="https://www.acmicpc.net/problem/3474" target="_blank" rel="noopener">교수가 된 현우</a> ❗️
 
 </details>
