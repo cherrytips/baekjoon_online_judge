@@ -18,7 +18,10 @@
         "-o",
         "${fileDirname}/${fileBasenameNoExtension}"
       ],
-      "group": "build",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
       //컴파일시 에러를 편집기에 반영
       //참고:   https://code.visualstudio.com/docs/editor/tasks#_defining-a-problem-matcher
       "problemMatcher": {
@@ -82,6 +85,26 @@
         "/C",
         "${fileDirname}\\${fileBasenameNoExtension}"
       ]
+    },
+    {
+      "type": "cppbuild",
+      "label": "C/C++: g++.exe 활성 파일 빌드",
+      "command": "C:\\mingw64\\bin\\g++.exe",
+      "args": [
+        "-fdiagnostics-color=always",
+        "-g",
+        "${file}",
+        "-o",
+        "${fileDirname}\\${fileBasenameNoExtension}.exe"
+      ],
+      "options": {
+        "cwd": "${fileDirname}"
+      },
+      "problemMatcher": [
+        "$gcc"
+      ],
+      "group": "build",
+      "detail": "디버거에서 생성된 작업입니다."
     }
   ]
 }
