@@ -55,6 +55,8 @@
 
 - ### 1427. <a href="https://www.acmicpc.net/problem/1427" target="_blank" rel="noopener">소트인사이드</a> ✅
 
+- ### 1476. <a href="https://www.acmicpc.net/problem/1476" target="_blank" rel="noopener">날짜 계산</a> ✅
+
 - ### 1546. <a href="https://www.acmicpc.net/problem/1546" target="_blank" rel="noopener">평균</a> ✅
 
 - ### 1620. <a href="https://www.acmicpc.net/problem/1620" target="_blank" rel="noopener">나는야 포켓몬 마스터 이다솜</a> ❗️
@@ -151,6 +153,8 @@
 
 - ### 3052. <a href="https://www.acmicpc.net/problem/3052" target="_blank" rel="noopener">나머지</a> ✅
 
+- ### 3085. <a href="https://www.acmicpc.net/problem/3085" target="_blank" rel="noopener">사탕 게임</a> ✅
+
 - ### 3474. <a href="https://www.acmicpc.net/problem/3474" target="_blank" rel="noopener">교수가 된 현우</a> ❗️
 
 </details>
@@ -180,7 +184,11 @@
 </details>
 <details>
 <summary>6000 ~ 6999</summary>
+
+- ### 6064. <a href="https://www.acmicpc.net/problem/6064" target="_blank" rel="noopener">카잉 달력</a> ✅
+
 - ### 6588. <a href="https://www.acmicpc.net/problem/6588" target="_blank" rel="noopener">골드바흐의 추측</a> ✅
+
 </details>
 <details>
 <summary>7000 ~ 7999</summary>

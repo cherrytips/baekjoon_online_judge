@@ -18,7 +18,10 @@
         "-o",
         "${fileDirname}/${fileBasenameNoExtension}"
       ],
-      "group": "build",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
       //컴파일시 에러를 편집기에 반영
       //참고:   https://code.visualstudio.com/docs/editor/tasks#_defining-a-problem-matcher
       "problemMatcher": {
@@ -68,10 +71,20 @@
       }
     },
     //바이너리 실행(Ubuntu)
+    // {
+    //   "label": "execute",
+    //   "command": "${fileDirname}/${fileBasenameNoExtension}",
+    //   "group": "test"
+    // }
+    // 바이너리 실행(Windows)
     {
       "label": "execute",
-      "command": "${fileDirname}/${fileBasenameNoExtension}",
-      "group": "test"
+      "command": "cmd",
+      "group": "test",
+      "args": [
+        "/C",
+        "${fileDirname}\\${fileBasenameNoExtension}"
+      ]
     },
     {
       "type": "cppbuild",
@@ -90,10 +103,7 @@
       "problemMatcher": [
         "$gcc"
       ],
-      "group": {
-        "kind": "build",
-        "isDefault": true
-      },
+      "group": "build",
       "detail": "디버거에서 생성된 작업입니다."
     }
   ]
