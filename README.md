@@ -184,7 +184,11 @@
 </details>
 <details>
 <summary>6000 ~ 6999</summary>
+
+- ### 6064. <a href="https://www.acmicpc.net/problem/6064" target="_blank" rel="noopener">카잉 달력</a> ✅
+
 - ### 6588. <a href="https://www.acmicpc.net/problem/6588" target="_blank" rel="noopener">골드바흐의 추측</a> ✅
+
 </details>
 <details>
 <summary>7000 ~ 7999</summary>
