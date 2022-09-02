@@ -63,6 +63,8 @@
 
 - ### 1712. <a href="https://www.acmicpc.net/problem/1712" target="_blank" rel="noopener">손익분기점</a> ✅
 
+- ### 1748. <a href="https://www.acmicpc.net/problem/1748" target="_blank" rel="noopener">수 이어 쓰기 1</a> ✅
+
 - ### 1769. <a href="https://www.acmicpc.net/problem/1769" target="_blank" rel="noopener">3의 배수</a> ✅
 
 - ### 1920. <a href="https://www.acmicpc.net/problem/1920" target="_blank" rel="noopener">수 찾기</a> ✅
