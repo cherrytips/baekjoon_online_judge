@@ -241,6 +241,8 @@
 
 - ### 10798. <a href="https://www.acmicpc.net/problem/10798" target="_blank" rel="noopener">세로읽기</a> ✅
 
+- ### 10807. <a href="https://www.acmicpc.net/problem/10807" target="_blank" rel="noopener">개수 세기</a> ✅
+
 - ### 10809. <a href="https://www.acmicpc.net/problem/10809" target="_blank" rel="noopener">알파벳 찾기</a> ✅
 
 - ### 10815. <a href="https://www.acmicpc.net/problem/10815" target="_blank" rel="noopener">숫자 카드</a> ✅
