@@ -395,4 +395,6 @@
 
 - ### 25377. <a href="https://www.acmicpc.net/problem/25377" target="_blank" rel="noopener">빵</a> ✅
 
+- ### 25501. <a href="https://www.acmicpc.net/problem/25501" target="_blank" rel="noopener">재귀의 귀재</a> ✅
+
 </details>
