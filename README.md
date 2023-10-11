@@ -247,6 +247,8 @@
 
 - ### 10809. <a href="https://www.acmicpc.net/problem/10809" target="_blank" rel="noopener">알파벳 찾기</a> ✅
 
+- ### 10810. <a href="https://www.acmicpc.net/problem/10810" target="_blank" rel="noopener">공 넣기</a> ✅
+
 - ### 10815. <a href="https://www.acmicpc.net/problem/10815" target="_blank" rel="noopener">숫자 카드</a> ✅
 
 - ### 10818. <a href="https://www.acmicpc.net/problem/10818" target="_blank" rel="noopener">최소, 최대</a> ✅
@@ -284,6 +286,8 @@
 - ### 11022. <a href="https://www.acmicpc.net/problem/11022" target="_blank" rel="noopener">A+B - 8</a> ✅
 
 - ### 11047. <a href="https://www.acmicpc.net/problem/11047" target="_blank" rel="noopener">동전 0</a> ✅
+
+- ### 11382. <a href="https://www.acmicpc.net/problem/11382" target="_blank" rel="noopener">꼬마 정민</a> ✅
 
 - ### 11399. <a href="https://www.acmicpc.net/problem/11399" target="_blank" rel="noopener">ATM</a> ✅
 
@@ -388,6 +392,8 @@
 - ### 25304. <a href="https://www.acmicpc.net/problem/25304" target="_blank" rel="noopener">영수증</a> ✅
 
 - ### 25305. <a href="https://www.acmicpc.net/problem/25305" target="_blank" rel="noopener">커트라인</a> ✅
+
+- ### 25314. <a href="https://www.acmicpc.net/problem/25314" target="_blank" rel="noopener">코딩은 체육과목 입니다</a> ✅
 
 - ### 25371. <a href="https://www.acmicpc.net/problem/25371" target="_blank" rel="noopener">k진수 정수의 자릿수 나누기</a> ❗️
 
