@@ -8,7 +8,7 @@
 
 > --> 각 항목들은 번호 순서대로 나열했습니다.
 
-> --> 1000번 단위로 문제들을 나누었습니다.
+> --> 10000번 단위로 문제들을 나누었습니다.
 
 <details>
 <summary>1000 ~ 1999</summary>
@@ -94,6 +94,8 @@
 - ### 2438. <a href="https://www.acmicpc.net/problem/2438" target="_blank" rel="noopener">별 찍기 - 1</a> ✅
 
 - ### 2439. <a href="https://www.acmicpc.net/problem/2439" target="_blank" rel="noopener">별 찍기 - 2</a> ✅
+
+- ### 2444. <a href="https://www.acmicpc.net/problem/2444" target="_blank" rel="noopener">별 찍기 - 7</a> ✅
 
 - ### 2475. <a href="https://www.acmicpc.net/problem/2475" target="_blank" rel="noopener">검증수</a> ✅
 
@@ -215,6 +217,8 @@
 
 - ### 9020. <a href="https://www.acmicpc.net/problem/9020" target="_blank" rel="noopener">골드바흐의 추측</a> ✅
 
+- ### 9086. <a href="https://www.acmicpc.net/problem/9086" target="_blank" rel="noopener">문자열</a> ✅
+
 - ### 9093. <a href="https://www.acmicpc.net/problem/9093" target="_blank" rel="noopener">단어 뒤집기</a> ✅
 
 - ### 9237. <a href="https://www.acmicpc.net/problem/9237" target="_blank" rel="noopener">이장님 초대</a> ✅
@@ -249,6 +253,10 @@
 
 - ### 10810. <a href="https://www.acmicpc.net/problem/10810" target="_blank" rel="noopener">공 넣기</a> ✅
 
+- ### 10811. <a href="https://www.acmicpc.net/problem/10811" target="_blank" rel="noopener">바구니 뒤집기</a> ✅
+
+- ### 10813. <a href="https://www.acmicpc.net/problem/10813" target="_blank" rel="noopener">공 바꾸기</a> ✅
+
 - ### 10815. <a href="https://www.acmicpc.net/problem/10815" target="_blank" rel="noopener">숫자 카드</a> ✅
 
 - ### 10818. <a href="https://www.acmicpc.net/problem/10818" target="_blank" rel="noopener">최소, 최대</a> ✅
@@ -274,6 +282,8 @@
 - ### 10952. <a href="https://www.acmicpc.net/problem/10952" target="_blank" rel="noopener">A+B - 5</a> ✅
 
 - ### 10974. <a href="https://www.acmicpc.net/problem/10974" target="_blank" rel="noopener">모든 순열</a> ✅
+
+- ### 10988. <a href="https://www.acmicpc.net/problem/10988" target="_blank" rel="noopener">팰린드롬인지 확인하기</a> ✅
 
 - ### 10998. <a href="https://www.acmicpc.net/problem/10998" target="_blank" rel="noopener">AxB</a> ✅
 
@@ -402,5 +412,7 @@
 - ### 25377. <a href="https://www.acmicpc.net/problem/25377" target="_blank" rel="noopener">빵</a> ✅
 
 - ### 25501. <a href="https://www.acmicpc.net/problem/25501" target="_blank" rel="noopener">재귀의 귀재</a> ✅
+
+- ### 27866. <a href="https://www.acmicpc.net/problem/27866" target="_blank" rel="noopener">문자와 문자열</a> ✅
 
 </details>
