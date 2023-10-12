@@ -107,6 +107,10 @@
 
 - ### 2562. <a href="https://www.acmicpc.net/problem/2562" target="_blank" rel="noopener">최댓값</a> ✅
 
+- ### 2563. <a href="https://www.acmicpc.net/problem/2563" target="_blank" rel="noopener">색종이</a> ✅
+
+- ### 2566. <a href="https://www.acmicpc.net/problem/2566" target="_blank" rel="noopener">최댓값</a> ✅
+
 - ### 2577. <a href="https://www.acmicpc.net/problem/2577" target="_blank" rel="noopener">숫자의 개수</a> ✅
 
 - ### 2581. <a href="https://www.acmicpc.net/problem/2581" target="_blank" rel="noopener">소수</a> ✅
@@ -120,6 +124,8 @@
 - ### 2675. <a href="https://www.acmicpc.net/problem/2675" target="_blank" rel="noopener">문자열 반복</a> ✅
 
 - ### 2693. <a href="https://www.acmicpc.net/problem/2693" target="_blank" rel="noopener">N번째 큰 수</a> ✅
+
+- ### 2738. <a href="https://www.acmicpc.net/problem/2738" target="_blank" rel="noopener">행렬 덧셈</a> ✅
 
 - ### 2739. <a href="https://www.acmicpc.net/problem/2739" target="_blank" rel="noopener">구구단</a> ✅
 
@@ -396,6 +402,8 @@
 - ### 25183. <a href="https://www.acmicpc.net/problem/25183" target="_blank" rel="noopener">인생은 한 방</a> ✅
 
 - ### 25205. <a href="https://www.acmicpc.net/problem/25205" target="_blank" rel="noopener">경로당펑크 2077</a> ✅
+
+- ### 25206. <a href="https://www.acmicpc.net/problem/25206" target="_blank" rel="noopener">너의 평점은</a> ✅
 
 - ### 25278. <a href="https://www.acmicpc.net/problem/25278" target="_blank" rel="noopener">Terraforming</a> ✅
 
